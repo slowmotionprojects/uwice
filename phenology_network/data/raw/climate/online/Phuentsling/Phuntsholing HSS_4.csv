@@ -1,0 +1,91 @@
+Data Format: 
+  dateTimeDelimiter: " "
+  decimalSeparator: "."
+  dataDelimiter: ","
+  dateFormat: M/d/yy
+  timeFormat: HH:mm:ss
+  gmtOffset: "6"
+  daylightSavings: false
+
+Logger Info: 
+  - &1
+    launchDescription: "Phuntsholing HSS"
+    model: U30
+    vendor: Onset Computer Corporation
+    serialNumber: 10364423
+    memorySize: 0
+    firmwareVersion: 2.006
+    firmwareVersionRaw: 0
+    deploymentNumber: 4203
+Series Info: 
+  - name: "Temp"
+    type: value
+    unitName: ""
+    OMClassName: OMTemp12bit_HWS
+    OMPartNumber: S-THB-XXXX
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+  - name: "RH"
+    type: value
+    unitName: ""
+    OMClassName: OMRH_HWS
+    OMPartNumber: S-THB-XXXX
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+  - name: "DewPt"
+    type: value
+    unitName: ""
+    OMClassName: OMDewPoint_HWS
+    OMPartNumber: S-THB-XXXX
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+  - name: "Water Cont"
+    type: value
+    unitName: ""
+    OMClassName: OMWaterContent2_HWS
+    OMPartNumber: S-SMD-M005
+    OMUnitIndex: 0
+    OMChannelType: 18
+    OMValuePattern: "#,##0.0000;-#,##0.0000"
+    logger: *1
+  - name: "PAR"
+    type: value
+    unitName: ""
+    OMClassName: OMeasurementH21
+    OMPartNumber: S-LIA-XXXX
+    OMUnitIndex: 0
+    OMChannelType: 22
+    OMValuePattern: "#,##0;-#,##0"
+    logger: *1
+  - name: "Rain"
+    type: value
+    unitName: ""
+    OMClassName: OMRain_HWS
+    OMPartNumber: S-RGB-M002
+    OMUnitIndex: 0
+    OMChannelType: 17
+    OMValuePattern: "#,##0.0;-#,##0.0"
+    logger: *1
+  - name: "Batt"
+    type: value
+    unitName: ""
+    OMClassName: OMVoltage_PipeBattery
+    OMPartNumber: U30 Battery
+    OMUnitIndex: 0
+    OMChannelType: 5
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+------------
+"#","Time, Bangladesh Time","Temp, *C","RH, %","DewPt, *C","Water Cont, m^3/m^3","PAR, uE","Rain, mm","Batt, V"
+1,4/22/16 16:35:00,28.57,76.50,24.06,0.1585,391,0.0,4.21
+2,4/22/16 16:45:00,28.57,76.90,24.15,0.0745,359,0.0,4.16
+3,4/22/16 16:55:00,28.37,77.50,24.08,0.0738,301,0.0,4.16
+4,4/22/16 17:05:00,27.68,79.10,23.75,0.0732,119,0.0,4.17
+5,4/22/16 17:15:00,27.36,82.00,24.04,0.0725,119,0.0,4.17
+6,4/22/16 17:25:00,27.06,82.80,23.92,0.0722,94,0.0,4.17

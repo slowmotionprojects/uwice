@@ -1,0 +1,98 @@
+Data Format: 
+  dateTimeDelimiter: " "
+  decimalSeparator: "."
+  dataDelimiter: ","
+  dateFormat: M/d/yy
+  timeFormat: HH:mm:ss
+  gmtOffset: "-5"
+  daylightSavings: false
+
+Logger Info: 
+  - &1
+    launchDescription: "Phuntsholing HSS"
+    model: U30
+    vendor: Onset Computer Corporation
+    serialNumber: 10364423
+    memorySize: 0
+    firmwareVersion: 2.006
+    firmwareVersionRaw: 0
+    deploymentNumber: 4203
+Series Info: 
+  - name: "Pressure"
+    type: value
+    unitName: "inHg"
+    OMClassName: OMPressure_HWS
+    OMPartNumber: S-BPB-XXXX
+    OMUnitIndex: 4
+    OMChannelType: 7
+    OMValuePattern: "#,##0.000;-#,##0.000"
+    logger: *1
+  - name: "Temp"
+    type: value
+    unitName: "*F"
+    OMClassName: OMTemp12bit_HWS
+    OMPartNumber: S-THB-XXXX
+    OMUnitIndex: 1
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+  - name: "RH"
+    type: value
+    unitName: ""
+    OMClassName: OMRH_HWS
+    OMPartNumber: S-THB-XXXX
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+  - name: "DewPt"
+    type: value
+    unitName: "*F"
+    OMClassName: OMDewPoint_HWS
+    OMPartNumber: S-THB-XXXX
+    OMUnitIndex: 1
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+  - name: "Temp"
+    type: value
+    unitName: "*F"
+    OMClassName: OMTemp12bit_HWS
+    OMPartNumber: S-THB-XXXX
+    OMUnitIndex: 1
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+  - name: "RH"
+    type: value
+    unitName: ""
+    OMClassName: OMRH_HWS
+    OMPartNumber: S-THB-XXXX
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+  - name: "DewPt"
+    type: value
+    unitName: "*F"
+    OMClassName: OMDewPoint_HWS
+    OMPartNumber: S-THB-XXXX
+    OMUnitIndex: 1
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+  - name: "Batt"
+    type: value
+    unitName: ""
+    OMClassName: OMVoltage_PipeBattery
+    OMPartNumber: U30 Battery
+    OMUnitIndex: 0
+    OMChannelType: 5
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+------------
+"#","Time, Eastern Daylight Time","Pressure, inHg","Temp, *F","RH, %","DewPt, *F","Temp, *F","RH, %","DewPt, *F","Batt, V"
+1,3/2/16 13:55:00,29.446,73.56,41.70,48.90,73.34,44.00,50.14,4.40
+2,3/2/16 14:00:00,29.461,73.73,41.60,48.99,73.60,43.60,50.13,4.43
+3,3/2/16 14:05:00,29.461,73.90,41.60,49.15,73.86,43.40,50.25,4.42
+4,3/2/16 14:10:00,29.467,74.03,41.30,49.06,74.12,43.10,50.29,4.42

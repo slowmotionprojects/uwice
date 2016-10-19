@@ -1,0 +1,115 @@
+Data Format: 
+  dateTimeDelimiter: " "
+  decimalSeparator: "."
+  dataDelimiter: ","
+  dateFormat: M/d/yy
+  timeFormat: HH:mm:ss
+  gmtOffset: "6"
+  daylightSavings: false
+
+Logger Info: 
+  - &1
+    launchDescription: "Tangmachu MSS"
+    model: U30
+    vendor: Onset Computer Corporation
+    serialNumber: 10364421
+    memorySize: 0
+    firmwareVersion: 2.006
+    firmwareVersionRaw: 0
+    deploymentNumber: 4201
+Series Info: 
+  - name: "Temp"
+    type: value
+    unitName: ""
+    OMClassName: OMTemp12bit_HWS
+    OMPartNumber: S-THB-XXXX
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+  - name: "RH"
+    type: value
+    unitName: ""
+    OMClassName: OMRH_HWS
+    OMPartNumber: S-THB-XXXX
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.0;-#,##0.0"
+    logger: *1
+  - name: "DewPt"
+    type: value
+    unitName: ""
+    OMClassName: OMDewPoint_HWS
+    OMPartNumber: S-THB-XXXX
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+  - name: "Wind Speed"
+    type: value
+    unitName: ""
+    OMClassName: OMWindWSA_HWS
+    OMPartNumber: S-WSA-XXXX
+    OMUnitIndex: 0
+    OMChannelType: 16
+    OMValuePattern: "#,##0.0;-#,##0.0"
+    logger: *1
+  - name: "Gust Speed"
+    type: value
+    unitName: ""
+    OMClassName: OMWindWSA_HWS
+    OMPartNumber: S-WSA-XXXX
+    OMUnitIndex: 0
+    OMChannelType: 16
+    OMValuePattern: "#,##0.0;-#,##0.0"
+    logger: *1
+  - name: "Wind Dir"
+    type: value
+    unitName: ""
+    OMClassName: OMeasurementH21
+    OMPartNumber: S-WDA-XXXX
+    OMUnitIndex: 0
+    OMChannelType: 4
+    OMValuePattern: "#,##0.;-#,##0."
+    logger: *1
+  - name: "PAR"
+    type: value
+    unitName: ""
+    OMClassName: OMeasurementH21
+    OMPartNumber: S-LIA-XXXX
+    OMUnitIndex: 0
+    OMChannelType: 22
+    OMValuePattern: "#,##0.;-#,##0."
+    logger: *1
+  - name: "Rain"
+    type: value
+    unitName: ""
+    OMClassName: OMRain_HWS
+    OMPartNumber: S-RGB-M002
+    OMUnitIndex: 0
+    OMChannelType: 17
+    OMValuePattern: "#,##0.0;-#,##0.0"
+    logger: *1
+  - name: "Batt"
+    type: value
+    unitName: ""
+    OMClassName: OMVoltage_PipeBattery
+    OMPartNumber: U30 BATTERY
+    OMUnitIndex: 0
+    OMChannelType: 5
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+------------
+"#","Time, Bangladesh Time","Temp, *C","RH, %","DewPt, *C","Wind Speed, m/s","Gust Speed, m/s","Wind Dir, *","PAR, uE","Rain, mm","Batt, V"
+1,9/6/14 16:45:00,23.21,70.5,17.57,2.3,6.5,25.,406.,0.0,4.14
+2,9/6/14 16:50:00,23.14,70.1,17.41,2.3,6.3,11.,386.,0.0,4.15
+3,9/6/14 16:55:00,22.92,70.3,17.25,3.8,7.8,10.,331.,0.0,4.15
+4,9/6/14 17:00:00,22.78,71.5,17.38,2.0,7.6,28.,284.,0.0,4.15
+5,9/6/14 17:05:00,22.49,72.4,17.30,3.5,8.1,13.,241.,0.0,4.15
+6,9/6/14 17:10:00,22.23,72.6,17.09,8.3,13.1,10.,181.,0.0,4.15
+7,9/6/14 17:15:00,22.18,72.6,17.05,9.8,14.4,8.,149.,0.0,4.15
+8,9/6/14 17:20:00,22.18,73.2,17.18,4.5,9.8,35.,119.,0.0,4.16
+9,9/6/14 17:25:00,22.20,72.4,17.02,3.0,7.1,25.,86.,0.0,4.16
+10,9/6/14 17:30:00,22.27,72.6,17.13,2.0,6.8,38.,66.,0.0,4.16
+11,9/6/14 17:35:00,22.23,73.2,17.22,3.8,6.8,25.,51.,0.0,4.16
+12,9/6/14 17:40:00,22.32,71.9,17.03,5.5,10.3,8.,39.,0.0,4.16

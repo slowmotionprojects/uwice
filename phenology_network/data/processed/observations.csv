@@ -1,0 +1,624 @@
+veg_type,event_type,event_date,species_id,species_sci_name,species_family_name,species_eng_name,species_cat,species_type,school_name,dzongkhag
+tree_conifer,needle_bud,2016-03-28,AdTrSaTg1,Abies densa,Pinaceae,Fir,Tree,Conifer,Sakteng Lower Secondary School,Trashigang
+tree_conifer,needle_bud,2016-03-01,CcTrKhTp1,Cupressus corneyana,Coniferae,,Tree,Conifer,Khasadrapchu Middle Secondary School,Thimphu
+tree_conifer,needle_bud,2016-02-24,LgTrJaBt1,Larix grifithii ,Pinaceae,Larch,Tree,Conifer,Jakar Higher Secondary School,Bumthang
+tree_conifer,needle_bud,2016-02-23,PbTrGaTg1,Pinus bhutanica,Pinaceae,,Tree,Conifer,Galing Primary School,Trashigang
+tree_conifer,needle_bud,2016-02-13,PrTrGyMg1,Pinus roxburghii,Pinaceae,Chirpine,Tree,Conifer,Gyelpozhing Central School,Mongar
+tree_conifer,needle_bud,2016-03-08,PrTrTaLt1,Pinus roxburghii,Pinaceae,Chirpine,Tree,Conifer,Tangmachu Central School,Lhuentse
+tree_conifer,needle_bud,2016-04-27,PsTrDaHa1,Picea spinulosa,Pinaceae,Spruce,Tree,Conifer,Damthang Primary School,Haa
+tree_conifer,needle_bud,2016-03-18,PwTrKhTp1,Pinus wallichiana,Coniferae,Bluepine,Tree,Conifer,Khasadrapchu Middle Secondary School,Thimphu
+tree_conifer,needle,2016-04-27,AdTrSaTg1,Abies densa,Pinaceae,Fir,Tree,Conifer,Sakteng Lower Secondary School,Trashigang
+tree_conifer,needle,2016-03-09,LgTrJaBt1,Larix grifithii ,Pinaceae,Larch,Tree,Conifer,Jakar Higher Secondary School,Bumthang
+tree_conifer,needle,2016-03-18,PbTrGaTg1,Pinus bhutanica,Pinaceae,,Tree,Conifer,Galing Primary School,Trashigang
+tree_conifer,needle,2016-03-03,PrTrGyMg1,Pinus roxburghii,Pinaceae,Chirpine,Tree,Conifer,Gyelpozhing Central School,Mongar
+tree_conifer,needle,2016-05-12,PsTrDaHa1,Picea spinulosa,Pinaceae,Spruce,Tree,Conifer,Damthang Primary School,Haa
+tree_conifer,needle,2016-05-05,PwTrKhTp1,Pinus wallichiana,Coniferae,Bluepine,Tree,Conifer,Khasadrapchu Middle Secondary School,Thimphu
+tree_conifer,seed_cone,2016-05-19,AdTrSaTg1,Abies densa,Pinaceae,Fir,Tree,Conifer,Sakteng Lower Secondary School,Trashigang
+tree_conifer,seed_cone,2016-09-03,CcTrKhTp1,Cupressus corneyana,Coniferae,,Tree,Conifer,Khasadrapchu Middle Secondary School,Thimphu
+tree_conifer,seed_cone,2016-03-21,LgTrJaBt1,Larix grifithii ,Pinaceae,Larch,Tree,Conifer,Jakar Higher Secondary School,Bumthang
+tree_conifer,seed_cone,2016-04-12,PbTrGaTg1,Pinus bhutanica,Pinaceae,,Tree,Conifer,Galing Primary School,Trashigang
+tree_conifer,seed_cone,2016-03-30,PrTrTaLt1,Pinus roxburghii,Pinaceae,Chirpine,Tree,Conifer,Tangmachu Central School,Lhuentse
+tree_conifer,seed_cone,2016-03-30,PsTrDaHa1,Picea spinulosa,Pinaceae,Spruce,Tree,Conifer,Damthang Primary School,Haa
+tree_conifer,seed_cone,2016-10-13,PsTrDaHa1,Picea spinulosa,Pinaceae,Spruce,Tree,Conifer,Damthang Primary School,Haa
+tree_conifer,seed_cone,2016-03-10,PwTrKhTp1,Pinus wallichiana,Coniferae,Bluepine,Tree,Conifer,Khasadrapchu Middle Secondary School,Thimphu
+tree_conifer,ripe_seed_cone,2016-08-10,LgTrJaBt1,Larix grifithii ,Pinaceae,Larch,Tree,Conifer,Jakar Higher Secondary School,Bumthang
+tree_conifer,ripe_seed_cone,2016-08-12,PrTrTaLt1,Pinus roxburghii,Pinaceae,Chirpine,Tree,Conifer,Tangmachu Central School,Lhuentse
+tree_conifer,ripe_seed_cone,2016-06-09,PsTrDaHa1,Picea spinulosa,Pinaceae,Spruce,Tree,Conifer,Damthang Primary School,Haa
+tree_conifer,needle_fall,2016-09-01,LgTrJaBt1,Larix grifithii ,Pinaceae,Larch,Tree,Conifer,Jakar Higher Secondary School,Bumthang
+tree,bud_burst,2016-03-09,AbTrJoSj1,Aesandra butyracea,Sapotaceae,Indian Butter Tree,Tree,Broad-leaved Decidious,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+tree,bud_burst,2016-02-24,AcTrGaTg1,Acer campbellii,Sapandiceae,Maple,Tree,Broad-leaved Decidious,Galing Primary School,Trashigang
+tree,bud_burst,2016-03-28,AiTrTeSt1,Ailanthus integrifolia,Simaroubaceae,,Tree,Broad-leaved Evergreen,Tendruk Central School,Samtse
+tree,bud_burst,2016-02-28,AnTrBaTy1,Alnus nepalensis,Betulaceae,Nepal Black Cedar,Tree,Broad-leaved Decidious,Baylling Central School,Trashiyangtse
+tree,bud_burst,2016-02-14,AnTrBjGs1,Alnus nepalensis,Betulaceae,Nepal Black Cedar,Tree,Broad-leaved Decidious,Bjishong Central School,Gasa
+tree,bud_burst,2016-02-16,AnTrNoWp1,Alnus nepalensis,Betulaceae,Nepal Black Cedar,Tree,Broad-leaved Decidious,Nobding Lower Secondary School,Wangduephodrang
+tree,bud_burst,2016-02-24,ApTrTeSt1,Albizzia procera ,Fabaceae,Albizia,Tree,Broad-leaved Evergreen,Tendruk Central School,Samtse
+tree,bud_burst,2016-03-14,BcTrGaTg1,Bombax ceiba,Bombacaceae,Red Cotton Tree,Tree,Broad-leaved Decidious,Galing Primary School,Trashigang
+tree,bud_burst,2016-02-24,BcTrJoSj1,Bombax ceiba,Bombacaceae,Red Cotton Tree,Tree,Broad-leaved Decidious,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+tree,bud_burst,2016-02-20,BcTrPeSp1,Bombax ceiba,Bombacaceae,Red Cotton Tree,Tree,Broad-leaved Decidious,Pelrithang Middle Secondary School,Sarpang
+tree,bud_burst,2016-05-03,CpTrGyMg1,Callistemon phoeniceus,Myrtaceae,Bottle brush,Tree,Broad-leaved Evergreen,Gyelpozhing Central School,Mongar
+tree,bud_burst,2016-02-20,CrTrTeSt1,Citrus reticulata,Rutaceae,,Tree,Broad-leaved Evergreen,Tendruk Central School,Samtse
+tree,bud_burst,2016-03-29,DbTrSaTg1,Daphne bholua,Thymelaeaceae,,Tree,Broad-leaved Evergreen,Sakteng Lower Secondary School,Trashigang
+tree,bud_burst,2016-02-10,DgTrTeSt1,Duabanga grandiflora,Sonnerateceae,,Tree,Broad-leaved Evergreen,Tendruk Central School,Samtse
+tree,bud_burst,2016-02-17,DiTrBaTy1,Docynia indica,Rosaceae,Assam Apple,Tree,Broad-leaved Decidious,Baylling Central School,Trashiyangtse
+tree,bud_burst,2016-03-02,DrTrPhCk1,Delonix regia,Leguminaceae,Gulmohar,Tree,Broad-leaved Evergreen,Phuentsholing Higher Secondary School,Chukha
+tree,bud_burst,2016-03-31,EaTrGeDg1,Erythrina arborescens,Leguminaceae,,Tree,Broad-leaved Decidious,Gesarling Central School,Dagana
+tree,bud_burst,2016-03-26,EaTrNoWp1,Erythrina arborescens,Leguminaceae,,Tree,Broad-leaved Decidious,Nobding Lower Secondary School,Wangduephodrang
+tree,bud_burst,2016-03-20,EaTrPeSp1,Erythrina arborescens,Leguminaceae,,Tree,Broad-leaved Decidious,Pelrithang Middle Secondary School,Sarpang
+tree,bud_burst,2016-03-04,GaTrJoSj1,Gmelina arborea,Verbenaceae,White teak,Tree,Broad-leaved Evergreen,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+tree,bud_burst,2016-03-09,GaTrPeSp1,Gmelina arborea,Verbenaceae,White teak,Tree,Broad-leaved Evergreen,Pelrithang Middle Secondary School,Sarpang
+tree,bud_burst,2016-03-22,JrTrBaTy1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Baylling Central School,Trashiyangtse
+tree,bud_burst,2016-03-12,JrTrGaTg1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Galing Primary School,Trashigang
+tree,bud_burst,2016-03-09,JrTrJaBt1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Jakar Higher Secondary School,Bumthang
+tree,bud_burst,2016-03-08,JrTrTaLt1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Tangmachu Central School,Lhuentse
+tree,bud_burst,2016-02-09,LlTrGyMg1,Leucaena leucocephala,Leguminaceae,Leucaena,Tree,Broad-leaved Evergreen,Gyelpozhing Central School,Mongar
+tree,bud_burst,2016-02-18,MaTrGyMg1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Gyelpozhing Central School,Mongar
+tree,bud_burst,2016-02-17,MaTrJoSj1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+tree,bud_burst,2016-03-08,MaTrTaLt1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Tangmachu Central School,Lhuentse
+tree,bud_burst,2016-02-28,MeTrBaTy1,Myrica esculenta,Myricaceae,,Tree,Broad-leaved Evergreen,Baylling Central School,Trashiyangtse
+tree,bud_burst,2016-03-20,MiTrPeSp1,Mangifera indica ,Anacardaceae,Mango Tree,Tree,Broad-leaved Evergreen,Pelrithang Middle Secondary School,Sarpang
+tree,bud_burst,2016-02-10,MiTrTeSt1,Mangifera indica ,Anacardaceae,Mango Tree,Tree,Broad-leaved Evergreen,Tendruk Central School,Samtse
+tree,bud_burst,2016-04-16,MkTrNoWp1,Michelia kisopa,Magnoliaceae,Yellow jade orchid tree,Tree,Broad-leaved Evergreen,Nobding Lower Secondary School,Wangduephodrang
+tree,bud_burst,2016-04-23,MkTrTaLt1,Michelia kisopa,Magnoliaceae,Yellow jade orchid tree,Tree,Broad-leaved Evergreen,Tangmachu Central School,Lhuentse
+tree,bud_burst,2016-04-13,MkTrYuPg1,Michelia kisopa,Magnoliaceae,Yellow jade orchid tree,Tree,Broad-leaved Evergreen,Yurung Central School,Pemagatshel
+tree,bud_burst,2016-04-18,PfTrDaHa1,Pieris formosa,Ericaceae,,Tree,Broad-leaved Evergreen,Damthang Primary School,Haa
+tree,bud_burst,2016-02-23,PpTrGaTg1,Prunus persica,Rosaceae,Peach,Tree,Broad-leaved Decidious,Galing Primary School,Trashigang
+tree,bud_burst,2016-03-21,PpTrJaBt1,Prunus persica,Rosaceae,Peach,Tree,Broad-leaved Decidious,Jakar Higher Secondary School,Bumthang
+tree,bud_burst,2016-03-09,PpTrKhTp1,Prunus persica,Rosaceae,Peach,Tree,Broad-leaved Decidious,Khasadrapchu Middle Secondary School,Thimphu
+tree,bud_burst,2016-03-14,QgTrBaTy1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Baylling Central School,Trashiyangtse
+tree,bud_burst,2016-03-25,QgTrBjGs1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Bjishong Central School,Gasa
+tree,bud_burst,2016-03-10,QgTrGaTg1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Galing Primary School,Trashigang
+tree,bud_burst,2016-04-01,QgTrKhTp1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Khasadrapchu Middle Secondary School,Thimphu
+tree,bud_burst,2016-03-25,QgTrNoWp1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Nobding Lower Secondary School,Wangduephodrang
+tree,bud_burst,2016-03-16,QgTrYuPg1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Yurung Central School,Pemagatshel
+tree,bud_burst,2016-04-12,QsTrSaTg1,Quercus semecarpifolia,Fagaceae,,Tree,Broad-leaved Evergreen,Sakteng Lower Secondary School,Trashigang
+tree,bud_burst,2016-03-28,RcTrKhTp1,Rhus chinensis,Rosaceae,,Tree,Broad-leaved Decidious,Khasadrapchu Middle Secondary School,Thimphu
+tree,bud_burst,2016-04-11,SaTrDaHa1,Salix alba,Salicaceae,,Tree,Broad-leaved Decidious,Damthang Primary School,Haa
+tree,bud_burst,2016-02-09,ScTrGyMg1,Syzygium cumini,Myrtaceae,Jamun,Tree,Broad-leaved Evergreen,Gyelpozhing Central School,Mongar
+tree,bud_burst,2016-05-01,TgTrTeSt1,Tectona grandis ,Verbenaceae,Teak,Tree,Broad-leaved Decidious,Tendruk Central School,Samtse
+tree,bud_burst,2016-04-14,TiTrPeSp1,Tamarindus indica,Leguminaceae,,Tree,Broad-leaved Evergreen,Pelrithang Middle Secondary School,Sarpang
+tree,young_leaf,2016-02-27,AcTrGaTg1,Acer campbellii,Sapandiceae,Maple,Tree,Broad-leaved Decidious,Galing Primary School,Trashigang
+tree,young_leaf,2016-04-04,AiTrTeSt1,Ailanthus integrifolia,Simaroubaceae,,Tree,Broad-leaved Evergreen,Tendruk Central School,Samtse
+tree,young_leaf,2016-03-03,AnTrBaTy1,Alnus nepalensis,Betulaceae,Nepal Black Cedar,Tree,Broad-leaved Decidious,Baylling Central School,Trashiyangtse
+tree,young_leaf,2016-03-25,AnTrBjGs1,Alnus nepalensis,Betulaceae,Nepal Black Cedar,Tree,Broad-leaved Decidious,Bjishong Central School,Gasa
+tree,young_leaf,2016-02-20,AnTrNoWp1,Alnus nepalensis,Betulaceae,Nepal Black Cedar,Tree,Broad-leaved Decidious,Nobding Lower Secondary School,Wangduephodrang
+tree,young_leaf,2016-03-15,ApTrGeDg1,Albizzia procera ,Fabaceae,Albizia,Tree,Broad-leaved Evergreen,Gesarling Central School,Dagana
+tree,young_leaf,2016-02-27,ApTrTeSt1,Albizzia procera ,Fabaceae,Albizia,Tree,Broad-leaved Evergreen,Tendruk Central School,Samtse
+tree,young_leaf,2016-03-27,BcTrGaTg1,Bombax ceiba,Bombacaceae,Red Cotton Tree,Tree,Broad-leaved Decidious,Galing Primary School,Trashigang
+tree,young_leaf,2016-02-25,BcTrJoSj1,Bombax ceiba,Bombacaceae,Red Cotton Tree,Tree,Broad-leaved Decidious,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+tree,young_leaf,2016-03-02,BcTrPeSp1,Bombax ceiba,Bombacaceae,Red Cotton Tree,Tree,Broad-leaved Decidious,Pelrithang Middle Secondary School,Sarpang
+tree,young_leaf,2016-05-10,CpTrGyMg1,Callistemon phoeniceus,Myrtaceae,Bottle brush,Tree,Broad-leaved Evergreen,Gyelpozhing Central School,Mongar
+tree,young_leaf,2016-02-28,CrTrTeSt1,Citrus reticulata,Rutaceae,,Tree,Broad-leaved Evergreen,Tendruk Central School,Samtse
+tree,young_leaf,2016-04-11,DbTrSaTg1,Daphne bholua,Thymelaeaceae,,Tree,Broad-leaved Evergreen,Sakteng Lower Secondary School,Trashigang
+tree,young_leaf,2016-02-13,DgTrTeSt1,Duabanga grandiflora,Sonnerateceae,,Tree,Broad-leaved Evergreen,Tendruk Central School,Samtse
+tree,young_leaf,2016-02-28,DiTrBaTy1,Docynia indica,Rosaceae,Assam Apple,Tree,Broad-leaved Decidious,Baylling Central School,Trashiyangtse
+tree,young_leaf,2016-03-04,DrTrPhCk1,Delonix regia,Leguminaceae,Gulmohar,Tree,Broad-leaved Evergreen,Phuentsholing Higher Secondary School,Chukha
+tree,young_leaf,2016-04-05,EaTrGeDg1,Erythrina arborescens,Leguminaceae,,Tree,Broad-leaved Decidious,Gesarling Central School,Dagana
+tree,young_leaf,2016-04-03,EaTrNoWp1,Erythrina arborescens,Leguminaceae,,Tree,Broad-leaved Decidious,Nobding Lower Secondary School,Wangduephodrang
+tree,young_leaf,2016-03-28,EaTrPeSp1,Erythrina arborescens,Leguminaceae,,Tree,Broad-leaved Decidious,Pelrithang Middle Secondary School,Sarpang
+tree,young_leaf,2016-03-10,GaTrPeSp1,Gmelina arborea,Verbenaceae,White teak,Tree,Broad-leaved Evergreen,Pelrithang Middle Secondary School,Sarpang
+tree,young_leaf,2016-03-27,JrTrBaTy1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Baylling Central School,Trashiyangtse
+tree,young_leaf,2016-03-14,JrTrGaTg1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Galing Primary School,Trashigang
+tree,young_leaf,2016-03-15,JrTrJaBt1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Jakar Higher Secondary School,Bumthang
+tree,young_leaf,2016-03-16,JrTrNoWp1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Nobding Lower Secondary School,Wangduephodrang
+tree,young_leaf,2016-03-09,JrTrTaLt1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Tangmachu Central School,Lhuentse
+tree,young_leaf,2016-02-09,LlTrGyMg1,Leucaena leucocephala,Leguminaceae,Leucaena,Tree,Broad-leaved Evergreen,Gyelpozhing Central School,Mongar
+tree,young_leaf,2016-02-21,MaTrGyMg1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Gyelpozhing Central School,Mongar
+tree,young_leaf,2016-02-24,MaTrJoSj1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+tree,young_leaf,2016-02-24,MaTrPhCk1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Phuentsholing Higher Secondary School,Chukha
+tree,young_leaf,2016-03-09,MaTrTaLt1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Tangmachu Central School,Lhuentse
+tree,young_leaf,2016-03-10,MeTrBaTy1,Myrica esculenta,Myricaceae,,Tree,Broad-leaved Evergreen,Baylling Central School,Trashiyangtse
+tree,young_leaf,2016-03-24,MiTrPeSp1,Mangifera indica ,Anacardaceae,Mango Tree,Tree,Broad-leaved Evergreen,Pelrithang Middle Secondary School,Sarpang
+tree,young_leaf,2016-02-17,MiTrTeSt1,Mangifera indica ,Anacardaceae,Mango Tree,Tree,Broad-leaved Evergreen,Tendruk Central School,Samtse
+tree,young_leaf,2016-04-18,MkTrNoWp1,Michelia kisopa,Magnoliaceae,Yellow jade orchid tree,Tree,Broad-leaved Evergreen,Nobding Lower Secondary School,Wangduephodrang
+tree,young_leaf,2016-04-29,MkTrTaLt1,Michelia kisopa,Magnoliaceae,Yellow jade orchid tree,Tree,Broad-leaved Evergreen,Tangmachu Central School,Lhuentse
+tree,young_leaf,2016-04-21,MkTrYuPg1,Michelia kisopa,Magnoliaceae,Yellow jade orchid tree,Tree,Broad-leaved Evergreen,Yurung Central School,Pemagatshel
+tree,young_leaf,2016-05-06,PfTrDaHa1,Pieris formosa,Ericaceae,,Tree,Broad-leaved Evergreen,Damthang Primary School,Haa
+tree,young_leaf,2016-02-24,PpTrGaTg1,Prunus persica,Rosaceae,Peach,Tree,Broad-leaved Decidious,Galing Primary School,Trashigang
+tree,young_leaf,2016-03-23,PpTrJaBt1,Prunus persica,Rosaceae,Peach,Tree,Broad-leaved Decidious,Jakar Higher Secondary School,Bumthang
+tree,young_leaf,2016-03-15,PpTrKhTp1,Prunus persica,Rosaceae,Peach,Tree,Broad-leaved Decidious,Khasadrapchu Middle Secondary School,Thimphu
+tree,young_leaf,2016-03-22,QgTrBaTy1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Baylling Central School,Trashiyangtse
+tree,young_leaf,2016-04-10,QgTrBjGs1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Bjishong Central School,Gasa
+tree,young_leaf,2016-03-12,QgTrGaTg1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Galing Primary School,Trashigang
+tree,young_leaf,2016-04-04,QgTrKhTp1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Khasadrapchu Middle Secondary School,Thimphu
+tree,young_leaf,2016-03-29,QgTrNoWp1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Nobding Lower Secondary School,Wangduephodrang
+tree,young_leaf,2016-03-28,QgTrYuPg1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Yurung Central School,Pemagatshel
+tree,young_leaf,2016-04-13,QsTrSaTg1,Quercus semecarpifolia,Fagaceae,,Tree,Broad-leaved Evergreen,Sakteng Lower Secondary School,Trashigang
+tree,young_leaf,2016-04-07,RcTrKhTp1,Rhus chinensis,Rosaceae,,Tree,Broad-leaved Decidious,Khasadrapchu Middle Secondary School,Thimphu
+tree,young_leaf,2016-04-18,SaTrDaHa1,Salix alba,Salicaceae,,Tree,Broad-leaved Decidious,Damthang Primary School,Haa
+tree,young_leaf,2016-04-27,SaTrSaTg1,Salix alba,Salicaceae,,Tree,Broad-leaved Decidious,Sakteng Lower Secondary School,Trashigang
+tree,young_leaf,2016-02-09,ScTrGyMg1,Syzygium cumini,Myrtaceae,Jamun,Tree,Broad-leaved Evergreen,Gyelpozhing Central School,Mongar
+tree,young_leaf,2016-03-02,SnTrMeTr1,Saurauia napaulensis,Actinidiacea,,Tree,Broad-leaved Evergreen,Mendrelgang Central School,Tsirang
+tree,young_leaf,2016-03-03,SnTrYuPg1,Saurauia napaulensis,Actinidiacea,,Tree,Broad-leaved Evergreen,Yurung Central School,Pemagatshel
+tree,young_leaf,2016-03-01,SwTrYuPg1,Schima wallichii,Theaceae,,Tree,Broad-leaved Decidious,Yurung Central School,Pemagatshel
+tree,young_leaf,2016-04-11,TbTrJoSj1,Terminalia bellirica,Combretaceae,,Tree,Broad-leaved Evergreen,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+tree,young_leaf,2016-05-20,TgTrTeSt1,Tectona grandis ,Verbenaceae,Teak,Tree,Broad-leaved Decidious,Tendruk Central School,Samtse
+tree,young_leaf,2016-04-25,TiTrPeSp1,Tamarindus indica,Leguminaceae,,Tree,Broad-leaved Evergreen,Pelrithang Middle Secondary School,Sarpang
+tree,flower_bud,2016-03-10,AnTrBaTy1,Alnus nepalensis,Betulaceae,Nepal Black Cedar,Tree,Broad-leaved Decidious,Baylling Central School,Trashiyangtse
+tree,flower_bud,2016-04-13,AnTrBjGs1,Alnus nepalensis,Betulaceae,Nepal Black Cedar,Tree,Broad-leaved Decidious,Bjishong Central School,Gasa
+tree,flower_bud,2016-04-30,AnTrMeTr1,Alnus nepalensis,Betulaceae,Nepal Black Cedar,Tree,Broad-leaved Decidious,Mendrelgang Central School,Tsirang
+tree,flower_bud,2016-03-15,AnTrNoWp1,Alnus nepalensis,Betulaceae,Nepal Black Cedar,Tree,Broad-leaved Decidious,Nobding Lower Secondary School,Wangduephodrang
+tree,flower_bud,2016-03-16,BpTrGeDg1,Bauhinia purpurea ,Fabaceae,,Tree,Broad-leaved Decidious,Gesarling Central School,Dagana
+tree,flower_bud,2016-02-09,CpTrGyMg1,Callistemon phoeniceus,Myrtaceae,Bottle brush,Tree,Broad-leaved Evergreen,Gyelpozhing Central School,Mongar
+tree,flower_bud,2016-03-03,CrTrTeSt1,Citrus reticulata,Rutaceae,,Tree,Broad-leaved Evergreen,Tendruk Central School,Samtse
+tree,flower_bud,2016-02-10,DgTrTeSt1,Duabanga grandiflora,Sonnerateceae,,Tree,Broad-leaved Evergreen,Tendruk Central School,Samtse
+tree,flower_bud,2016-03-04,DiTrTaLt1,Docynia indica,Rosaceae,Assam Apple,Tree,Broad-leaved Decidious,Tangmachu Central School,Lhuentse
+tree,flower_bud,2016-03-15,DrTrPhCk1,Delonix regia,Leguminaceae,Gulmohar,Tree,Broad-leaved Evergreen,Phuentsholing Higher Secondary School,Chukha
+tree,flower_bud,2016-09-12,EaTrGeDg1,Erythrina arborescens,Leguminaceae,,Tree,Broad-leaved Decidious,Gesarling Central School,Dagana
+tree,flower_bud,2016-07-16,EaTrNoWp1,Erythrina arborescens,Leguminaceae,,Tree,Broad-leaved Decidious,Nobding Lower Secondary School,Wangduephodrang
+tree,flower_bud,2016-01-05,EaTrPeSp1,Erythrina arborescens,Leguminaceae,,Tree,Broad-leaved Decidious,Pelrithang Middle Secondary School,Sarpang
+tree,flower_bud,2016-03-02,EsTrMeTr1,Erythrina stricta,Fabaceae,,Tree,Broad-leaved Decidious,Mendrelgang Central School,Tsirang
+tree,flower_bud,2016-02-11,GaTrJoSj1,Gmelina arborea,Verbenaceae,White teak,Tree,Broad-leaved Evergreen,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+tree,flower_bud,2016-02-03,GaTrPeSp1,Gmelina arborea,Verbenaceae,White teak,Tree,Broad-leaved Evergreen,Pelrithang Middle Secondary School,Sarpang
+tree,flower_bud,2016-02-28,JrTrGaTg1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Galing Primary School,Trashigang
+tree,flower_bud,2016-03-14,JrTrJaBt1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Jakar Higher Secondary School,Bumthang
+tree,flower_bud,2016-03-08,JrTrTaLt1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Tangmachu Central School,Lhuentse
+tree,flower_bud,2016-03-23,LlTrGyMg1,Leucaena leucocephala,Leguminaceae,Leucaena,Tree,Broad-leaved Evergreen,Gyelpozhing Central School,Mongar
+tree,flower_bud,2016-02-25,MaTrGyMg1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Gyelpozhing Central School,Mongar
+tree,flower_bud,2016-02-25,MaTrJoSj1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+tree,flower_bud,2016-03-01,MaTrPhCk1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Phuentsholing Higher Secondary School,Chukha
+tree,flower_bud,2016-03-23,MaTrTaLt1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Tangmachu Central School,Lhuentse
+tree,flower_bud,2016-03-02,MiTrTeSt1,Mangifera indica ,Anacardaceae,Mango Tree,Tree,Broad-leaved Evergreen,Tendruk Central School,Samtse
+tree,flower_bud,2016-02-20,MkTrNoWp1,Michelia kisopa,Magnoliaceae,Yellow jade orchid tree,Tree,Broad-leaved Evergreen,Nobding Lower Secondary School,Wangduephodrang
+tree,flower_bud,2016-03-01,PfTrDaHa1,Pieris formosa,Ericaceae,,Tree,Broad-leaved Evergreen,Damthang Primary School,Haa
+tree,flower_bud,2016-03-12,PpTrKhTp1,Prunus persica,Rosaceae,Peach,Tree,Broad-leaved Decidious,Khasadrapchu Middle Secondary School,Thimphu
+tree,flower_bud,2016-01-18,PpTrMeTr1,Pyrus pashia,Rosaceae,Pear Tree,Tree,Broad-leaved Decidious,Mendrelgang Central School,Tsirang
+tree,flower_bud,2016-03-27,QgTrBaTy1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Baylling Central School,Trashiyangtse
+tree,flower_bud,2016-04-10,QgTrBjGs1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Bjishong Central School,Gasa
+tree,flower_bud,2016-03-05,QgTrGaTg1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Galing Primary School,Trashigang
+tree,flower_bud,2016-04-01,QgTrKhTp1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Khasadrapchu Middle Secondary School,Thimphu
+tree,flower_bud,2016-06-06,RcTrKhTp1,Rhus chinensis,Rosaceae,,Tree,Broad-leaved Decidious,Khasadrapchu Middle Secondary School,Thimphu
+tree,flower_bud,2016-04-27,SaTrDaHa1,Salix alba,Salicaceae,,Tree,Broad-leaved Decidious,Damthang Primary School,Haa
+tree,flower_bud,2016-03-21,SaTrSaTg1,Salix alba,Salicaceae,,Tree,Broad-leaved Decidious,Sakteng Lower Secondary School,Trashigang
+tree,flower_bud,2016-03-02,ScTrGyMg1,Syzygium cumini,Myrtaceae,Jamun,Tree,Broad-leaved Evergreen,Gyelpozhing Central School,Mongar
+tree,flower_bud,2016-03-23,SnTrMeTr1,Saurauia napaulensis,Actinidiacea,,Tree,Broad-leaved Evergreen,Mendrelgang Central School,Tsirang
+tree,flower_bud,2016-03-23,SwTrYuPg1,Schima wallichii,Theaceae,,Tree,Broad-leaved Decidious,Yurung Central School,Pemagatshel
+tree,flower_bud,2016-05-10,TiTrPeSp1,Tamarindus indica,Leguminaceae,,Tree,Broad-leaved Evergreen,Pelrithang Middle Secondary School,Sarpang
+tree,flower,2016-10-01,AnTrBjGs1,Alnus nepalensis,Betulaceae,Nepal Black Cedar,Tree,Broad-leaved Decidious,Bjishong Central School,Gasa
+tree,flower,2016-05-02,ApTrGeDg1,Albizzia procera ,Fabaceae,Albizia,Tree,Broad-leaved Evergreen,Gesarling Central School,Dagana
+tree,flower,2016-01-05,BcTrPeSp1,Bombax ceiba,Bombacaceae,Red Cotton Tree,Tree,Broad-leaved Decidious,Pelrithang Middle Secondary School,Sarpang
+tree,flower,2016-03-25,BpTrGeDg1,Bauhinia purpurea ,Fabaceae,,Tree,Broad-leaved Decidious,Gesarling Central School,Dagana
+tree,flower,2016-03-20,CpTrGyMg1,Callistemon phoeniceus,Myrtaceae,Bottle brush,Tree,Broad-leaved Evergreen,Gyelpozhing Central School,Mongar
+tree,flower,2016-03-14,CrTrTeSt1,Citrus reticulata,Rutaceae,,Tree,Broad-leaved Evergreen,Tendruk Central School,Samtse
+tree,flower,2016-03-02,DbTrBjGs1,Daphne bholua,Thymelaeaceae,,Tree,Broad-leaved Evergreen,Bjishong Central School,Gasa
+tree,flower,2016-02-17,DgTrTeSt1,Duabanga grandiflora,Sonnerateceae,,Tree,Broad-leaved Evergreen,Tendruk Central School,Samtse
+tree,flower,2016-03-15,DiTrBaTy1,Docynia indica,Rosaceae,Assam Apple,Tree,Broad-leaved Decidious,Baylling Central School,Trashiyangtse
+tree,flower,2016-03-08,DiTrTaLt1,Docynia indica,Rosaceae,Assam Apple,Tree,Broad-leaved Decidious,Tangmachu Central School,Lhuentse
+tree,flower,2016-04-05,DrTrPhCk1,Delonix regia,Leguminaceae,Gulmohar,Tree,Broad-leaved Evergreen,Phuentsholing Higher Secondary School,Chukha
+tree,flower,2016-09-19,EaTrGeDg1,Erythrina arborescens,Leguminaceae,,Tree,Broad-leaved Decidious,Gesarling Central School,Dagana
+tree,flower,2016-02-08,EaTrPeSp1,Erythrina arborescens,Leguminaceae,,Tree,Broad-leaved Decidious,Pelrithang Middle Secondary School,Sarpang
+tree,flower,2016-01-07,EaTrPhCk1,Erythrina arborescens,Leguminaceae,,Tree,Broad-leaved Decidious,Phuentsholing Higher Secondary School,Chukha
+tree,flower,2016-03-10,EsTrMeTr1,Erythrina stricta,Fabaceae,,Tree,Broad-leaved Decidious,Mendrelgang Central School,Tsirang
+tree,flower,2016-02-17,GaTrJoSj1,Gmelina arborea,Verbenaceae,White teak,Tree,Broad-leaved Evergreen,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+tree,flower,2016-02-20,GaTrPeSp1,Gmelina arborea,Verbenaceae,White teak,Tree,Broad-leaved Evergreen,Pelrithang Middle Secondary School,Sarpang
+tree,flower,2016-01-06,GaTrPhCk1,Gmelina arborea,Verbenaceae,White teak,Tree,Broad-leaved Evergreen,Phuentsholing Higher Secondary School,Chukha
+tree,flower,2016-03-15,JrTrGaTg1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Galing Primary School,Trashigang
+tree,flower,2016-04-04,JrTrJaBt1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Jakar Higher Secondary School,Bumthang
+tree,flower,2016-04-12,JrTrNoWp1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Nobding Lower Secondary School,Wangduephodrang
+tree,flower,2016-03-17,JrTrTaLt1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Tangmachu Central School,Lhuentse
+tree,flower,2016-04-06,LlTrGyMg1,Leucaena leucocephala,Leguminaceae,Leucaena,Tree,Broad-leaved Evergreen,Gyelpozhing Central School,Mongar
+tree,flower,2016-03-19,MaTrGyMg1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Gyelpozhing Central School,Mongar
+tree,flower,2016-03-03,MaTrJoSj1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+tree,flower,2016-03-07,MaTrPhCk1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Phuentsholing Higher Secondary School,Chukha
+tree,flower,2016-04-18,MaTrTaLt1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Tangmachu Central School,Lhuentse
+tree,flower,2016-03-09,MiTrPeSp1,Mangifera indica ,Anacardaceae,Mango Tree,Tree,Broad-leaved Evergreen,Pelrithang Middle Secondary School,Sarpang
+tree,flower,2016-03-21,MiTrTeSt1,Mangifera indica ,Anacardaceae,Mango Tree,Tree,Broad-leaved Evergreen,Tendruk Central School,Samtse
+tree,flower,2016-02-29,MkTrNoWp1,Michelia kisopa,Magnoliaceae,Yellow jade orchid tree,Tree,Broad-leaved Evergreen,Nobding Lower Secondary School,Wangduephodrang
+tree,flower,2016-08-06,MkTrYuPg1,Michelia kisopa,Magnoliaceae,Yellow jade orchid tree,Tree,Broad-leaved Evergreen,Yurung Central School,Pemagatshel
+tree,flower,2016-03-10,PfTrDaHa1,Pieris formosa,Ericaceae,,Tree,Broad-leaved Evergreen,Damthang Primary School,Haa
+tree,flower,2016-03-09,PpTrJaBt1,Prunus persica,Rosaceae,Peach,Tree,Broad-leaved Decidious,Jakar Higher Secondary School,Bumthang
+tree,flower,2016-03-14,PpTrKhTp1,Prunus persica,Rosaceae,Peach,Tree,Broad-leaved Decidious,Khasadrapchu Middle Secondary School,Thimphu
+tree,flower,2016-01-28,PpTrMeTr1,Pyrus pashia,Rosaceae,Pear Tree,Tree,Broad-leaved Decidious,Mendrelgang Central School,Tsirang
+tree,flower,2016-03-12,QgTrGaTg1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Galing Primary School,Trashigang
+tree,flower,2016-04-07,QgTrKhTp1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Khasadrapchu Middle Secondary School,Thimphu
+tree,flower,2016-04-13,QgTrNoWp1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Nobding Lower Secondary School,Wangduephodrang
+tree,flower,2016-06-11,RcTrKhTp1,Rhus chinensis,Rosaceae,,Tree,Broad-leaved Decidious,Khasadrapchu Middle Secondary School,Thimphu
+tree,flower,2016-05-18,SaTrSaTg1,Salix alba,Salicaceae,,Tree,Broad-leaved Decidious,Sakteng Lower Secondary School,Trashigang
+tree,flower,2016-03-02,SbTrBjGs1,Salix babylonica,Salicaceae,Weeping Willow,Tree,Broad-leaved Decidious,Bjishong Central School,Gasa
+tree,flower,2016-04-17,ScTrGyMg1,Syzygium cumini,Myrtaceae,Jamun,Tree,Broad-leaved Evergreen,Gyelpozhing Central School,Mongar
+tree,flower,2016-04-30,SnTrMeTr1,Saurauia napaulensis,Actinidiacea,,Tree,Broad-leaved Evergreen,Mendrelgang Central School,Tsirang
+tree,flower,2016-05-09,SwTrGeDg1,Schima wallichii,Theaceae,,Tree,Broad-leaved Decidious,Gesarling Central School,Dagana
+tree,flower,2016-05-10,SwTrGeDg1,Schima wallichii,Theaceae,,Tree,Broad-leaved Decidious,Gesarling Central School,Dagana
+tree,flower,2016-05-03,SwTrMeTr1,Schima wallichii,Theaceae,,Tree,Broad-leaved Decidious,Mendrelgang Central School,Tsirang
+tree,flower,2016-05-18,SwTrYuPg1,Schima wallichii,Theaceae,,Tree,Broad-leaved Decidious,Yurung Central School,Pemagatshel
+tree,flower,2016-04-18,TbTrJoSj1,Terminalia bellirica,Combretaceae,,Tree,Broad-leaved Evergreen,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+tree,flower,2016-05-17,TiTrPeSp1,Tamarindus indica,Leguminaceae,,Tree,Broad-leaved Evergreen,Pelrithang Middle Secondary School,Sarpang
+tree,fruit,2016-09-29,AnTrBaTy1,Alnus nepalensis,Betulaceae,Nepal Black Cedar,Tree,Broad-leaved Decidious,Baylling Central School,Trashiyangtse
+tree,fruit,2016-09-06,AnTrBjGs1,Alnus nepalensis,Betulaceae,Nepal Black Cedar,Tree,Broad-leaved Decidious,Bjishong Central School,Gasa
+tree,fruit,2016-03-01,BcTrBjGs1,Benthamedia capitata,Cornaceae,Dog wood,Tree,Broad-leaved Evergreen,Bjishong Central School,Gasa
+tree,fruit,2016-03-15,BcTrGaTg1,Bombax ceiba,Bombacaceae,Red Cotton Tree,Tree,Broad-leaved Decidious,Galing Primary School,Trashigang
+tree,fruit,2016-02-17,BcTrJoSj1,Bombax ceiba,Bombacaceae,Red Cotton Tree,Tree,Broad-leaved Decidious,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+tree,fruit,2016-03-03,BcTrPeSp1,Bombax ceiba,Bombacaceae,Red Cotton Tree,Tree,Broad-leaved Decidious,Pelrithang Middle Secondary School,Sarpang
+tree,fruit,2016-04-04,CrTrTeSt1,Citrus reticulata,Rutaceae,,Tree,Broad-leaved Evergreen,Tendruk Central School,Samtse
+tree,fruit,2016-03-25,DbTrBjGs1,Daphne bholua,Thymelaeaceae,,Tree,Broad-leaved Evergreen,Bjishong Central School,Gasa
+tree,fruit,2016-04-28,DbTrSaTg1,Daphne bholua,Thymelaeaceae,,Tree,Broad-leaved Evergreen,Sakteng Lower Secondary School,Trashigang
+tree,fruit,2016-02-25,DgTrTeSt1,Duabanga grandiflora,Sonnerateceae,,Tree,Broad-leaved Evergreen,Tendruk Central School,Samtse
+tree,fruit,2016-04-24,DiTrBaTy1,Docynia indica,Rosaceae,Assam Apple,Tree,Broad-leaved Decidious,Baylling Central School,Trashiyangtse
+tree,fruit,2016-03-30,DiTrTaLt1,Docynia indica,Rosaceae,Assam Apple,Tree,Broad-leaved Decidious,Tangmachu Central School,Lhuentse
+tree,fruit,2016-04-12,DrTrPhCk1,Delonix regia,Leguminaceae,Gulmohar,Tree,Broad-leaved Evergreen,Phuentsholing Higher Secondary School,Chukha
+tree,fruit,2016-08-08,EaTrNoWp1,Erythrina arborescens,Leguminaceae,,Tree,Broad-leaved Decidious,Nobding Lower Secondary School,Wangduephodrang
+tree,fruit,2016-03-13,EaTrPeSp1,Erythrina arborescens,Leguminaceae,,Tree,Broad-leaved Decidious,Pelrithang Middle Secondary School,Sarpang
+tree,fruit,2016-02-08,EaTrPhCk1,Erythrina arborescens,Leguminaceae,,Tree,Broad-leaved Decidious,Phuentsholing Higher Secondary School,Chukha
+tree,fruit,2016-03-17,GaTrJoSj1,Gmelina arborea,Verbenaceae,White teak,Tree,Broad-leaved Evergreen,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+tree,fruit,2016-03-13,GaTrPeSp1,Gmelina arborea,Verbenaceae,White teak,Tree,Broad-leaved Evergreen,Pelrithang Middle Secondary School,Sarpang
+tree,fruit,2016-01-25,GaTrPhCk1,Gmelina arborea,Verbenaceae,White teak,Tree,Broad-leaved Evergreen,Phuentsholing Higher Secondary School,Chukha
+tree,fruit,2016-04-11,JrTrGaTg1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Galing Primary School,Trashigang
+tree,fruit,2016-04-14,JrTrJaBt1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Jakar Higher Secondary School,Bumthang
+tree,fruit,2016-04-29,JrTrNoWp1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Nobding Lower Secondary School,Wangduephodrang
+tree,fruit,2016-04-18,JrTrTaLt1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Tangmachu Central School,Lhuentse
+tree,fruit,2016-04-20,LlTrGyMg1,Leucaena leucocephala,Leguminaceae,Leucaena,Tree,Broad-leaved Evergreen,Gyelpozhing Central School,Mongar
+tree,fruit,2016-04-03,MaTrGyMg1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Gyelpozhing Central School,Mongar
+tree,fruit,2016-03-23,MaTrPhCk1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Phuentsholing Higher Secondary School,Chukha
+tree,fruit,2016-05-23,MaTrTaLt1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Tangmachu Central School,Lhuentse
+tree,fruit,2016-04-18,MeTrBaTy1,Myrica esculenta,Myricaceae,,Tree,Broad-leaved Evergreen,Baylling Central School,Trashiyangtse
+tree,fruit,2016-03-13,MiTrPeSp1,Mangifera indica ,Anacardaceae,Mango Tree,Tree,Broad-leaved Evergreen,Pelrithang Middle Secondary School,Sarpang
+tree,fruit,2016-04-04,MiTrTeSt1,Mangifera indica ,Anacardaceae,Mango Tree,Tree,Broad-leaved Evergreen,Tendruk Central School,Samtse
+tree,fruit,2016-03-16,MkTrNoWp1,Michelia kisopa,Magnoliaceae,Yellow jade orchid tree,Tree,Broad-leaved Evergreen,Nobding Lower Secondary School,Wangduephodrang
+tree,fruit,2016-09-07,MkTrYuPg1,Michelia kisopa,Magnoliaceae,Yellow jade orchid tree,Tree,Broad-leaved Evergreen,Yurung Central School,Pemagatshel
+tree,fruit,2016-06-09,PfTrDaHa1,Pieris formosa,Ericaceae,,Tree,Broad-leaved Evergreen,Damthang Primary School,Haa
+tree,fruit,2016-03-11,PpTrGaTg1,Prunus persica,Rosaceae,Peach,Tree,Broad-leaved Decidious,Galing Primary School,Trashigang
+tree,fruit,2016-04-01,PpTrGeDg1,Prunus persica,Rosaceae,Peach,Tree,Broad-leaved Decidious,Gesarling Central School,Dagana
+tree,fruit,2016-04-11,PpTrJaBt1,Prunus persica,Rosaceae,Peach,Tree,Broad-leaved Decidious,Jakar Higher Secondary School,Bumthang
+tree,fruit,2016-03-23,PpTrMeTr1,Pyrus pashia,Rosaceae,Pear Tree,Tree,Broad-leaved Decidious,Mendrelgang Central School,Tsirang
+tree,fruit,2016-04-30,QgTrNoWp1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Nobding Lower Secondary School,Wangduephodrang
+tree,fruit,2016-06-29,QsTrSaTg1,Quercus semecarpifolia,Fagaceae,,Tree,Broad-leaved Evergreen,Sakteng Lower Secondary School,Trashigang
+tree,fruit,2016-07-01,RcTrKhTp1,Rhus chinensis,Rosaceae,,Tree,Broad-leaved Decidious,Khasadrapchu Middle Secondary School,Thimphu
+tree,fruit,2016-05-25,SaTrSaTg1,Salix alba,Salicaceae,,Tree,Broad-leaved Decidious,Sakteng Lower Secondary School,Trashigang
+tree,fruit,2016-04-10,SbTrBjGs1,Salix babylonica,Salicaceae,Weeping Willow,Tree,Broad-leaved Decidious,Bjishong Central School,Gasa
+tree,fruit,2016-05-27,ScTrGyMg1,Syzygium cumini,Myrtaceae,Jamun,Tree,Broad-leaved Evergreen,Gyelpozhing Central School,Mongar
+tree,fruit,2016-05-18,SnTrMeTr1,Saurauia napaulensis,Actinidiacea,,Tree,Broad-leaved Evergreen,Mendrelgang Central School,Tsirang
+tree,fruit,2016-03-03,SnTrYuPg1,Saurauia napaulensis,Actinidiacea,,Tree,Broad-leaved Evergreen,Yurung Central School,Pemagatshel
+tree,fruit,2016-05-28,SwTrGeDg1,Schima wallichii,Theaceae,,Tree,Broad-leaved Decidious,Gesarling Central School,Dagana
+tree,fruit,2016-05-12,SwTrMeTr1,Schima wallichii,Theaceae,,Tree,Broad-leaved Decidious,Mendrelgang Central School,Tsirang
+tree,fruit,2016-09-02,TiTrPeSp1,Tamarindus indica,Leguminaceae,,Tree,Broad-leaved Evergreen,Pelrithang Middle Secondary School,Sarpang
+tree,ripe_fruit,2016-03-01,BcTrJoSj1,Bombax ceiba,Bombacaceae,Red Cotton Tree,Tree,Broad-leaved Decidious,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+tree,ripe_fruit,2016-03-22,BcTrPeSp1,Bombax ceiba,Bombacaceae,Red Cotton Tree,Tree,Broad-leaved Decidious,Pelrithang Middle Secondary School,Sarpang
+tree,ripe_fruit,2016-06-21,CpTrGyMg1,Callistemon phoeniceus,Myrtaceae,Bottle brush,Tree,Broad-leaved Evergreen,Gyelpozhing Central School,Mongar
+tree,ripe_fruit,2016-03-07,DgTrTeSt1,Duabanga grandiflora,Sonnerateceae,,Tree,Broad-leaved Evergreen,Tendruk Central School,Samtse
+tree,ripe_fruit,2016-03-31,EaTrPeSp1,Erythrina arborescens,Leguminaceae,,Tree,Broad-leaved Decidious,Pelrithang Middle Secondary School,Sarpang
+tree,ripe_fruit,2016-02-20,EaTrPhCk1,Erythrina arborescens,Leguminaceae,,Tree,Broad-leaved Decidious,Phuentsholing Higher Secondary School,Chukha
+tree,ripe_fruit,2016-04-25,EsTrMeTr1,Erythrina stricta,Fabaceae,,Tree,Broad-leaved Decidious,Mendrelgang Central School,Tsirang
+tree,ripe_fruit,2016-04-25,GaTrPeSp1,Gmelina arborea,Verbenaceae,White teak,Tree,Broad-leaved Evergreen,Pelrithang Middle Secondary School,Sarpang
+tree,ripe_fruit,2016-09-07,JrTrJaBt1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Jakar Higher Secondary School,Bumthang
+tree,ripe_fruit,2016-10-05,JrTrTaLt1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Tangmachu Central School,Lhuentse
+tree,ripe_fruit,2016-06-15,LlTrGyMg1,Leucaena leucocephala,Leguminaceae,Leucaena,Tree,Broad-leaved Evergreen,Gyelpozhing Central School,Mongar
+tree,ripe_fruit,2016-09-24,MaTrGyMg1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Gyelpozhing Central School,Mongar
+tree,ripe_fruit,2016-07-18,MaTrPhCk1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Phuentsholing Higher Secondary School,Chukha
+tree,ripe_fruit,2016-07-16,PpTrJaBt1,Prunus persica,Rosaceae,Peach,Tree,Broad-leaved Decidious,Jakar Higher Secondary School,Bumthang
+tree,ripe_fruit,2016-09-16,QgTrKhTp1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Khasadrapchu Middle Secondary School,Thimphu
+tree,ripe_fruit,2016-07-11,QsTrSaTg1,Quercus semecarpifolia,Fagaceae,,Tree,Broad-leaved Evergreen,Sakteng Lower Secondary School,Trashigang
+tree,ripe_fruit,2016-09-16,RcTrKhTp1,Rhus chinensis,Rosaceae,,Tree,Broad-leaved Decidious,Khasadrapchu Middle Secondary School,Thimphu
+tree,ripe_fruit,2016-06-14,SaTrSaTg1,Salix alba,Salicaceae,,Tree,Broad-leaved Decidious,Sakteng Lower Secondary School,Trashigang
+tree,ripe_fruit,2016-07-01,ScTrGyMg1,Syzygium cumini,Myrtaceae,Jamun,Tree,Broad-leaved Evergreen,Gyelpozhing Central School,Mongar
+tree,ripe_fruit,2016-01-28,TiTrPeSp1,Tamarindus indica,Leguminaceae,,Tree,Broad-leaved Evergreen,Pelrithang Middle Secondary School,Sarpang
+tree,leaf_fall,2016-06-09,BcTrJoSj1,Bombax ceiba,Bombacaceae,Red Cotton Tree,Tree,Broad-leaved Decidious,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+tree,leaf_fall,2016-10-05,DiTrBaTy1,Docynia indica,Rosaceae,Assam Apple,Tree,Broad-leaved Decidious,Baylling Central School,Trashiyangtse
+tree,leaf_fall,2016-07-26,DiTrTaLt1,Docynia indica,Rosaceae,Assam Apple,Tree,Broad-leaved Decidious,Tangmachu Central School,Lhuentse
+tree,leaf_fall,2016-07-12,EaTrNoWp1,Erythrina arborescens,Leguminaceae,,Tree,Broad-leaved Decidious,Nobding Lower Secondary School,Wangduephodrang
+tree,leaf_fall,2016-04-26,EaTrPhCk1,Erythrina arborescens,Leguminaceae,,Tree,Broad-leaved Decidious,Phuentsholing Higher Secondary School,Chukha
+tree,leaf_fall,2016-09-29,JrTrBaTy1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Baylling Central School,Trashiyangtse
+tree,leaf_fall,2016-07-09,JrTrJaBt1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Jakar Higher Secondary School,Bumthang
+tree,leaf_fall,2016-09-10,JrTrTaLt1,Juglans regia,Juglandaceae,Walnut,Tree,Broad-leaved Decidious,Tangmachu Central School,Lhuentse
+tree,leaf_fall,2016-08-28,MaTrGyMg1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Gyelpozhing Central School,Mongar
+tree,leaf_fall,2016-08-08,MaTrJoSj1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+tree,leaf_fall,2016-04-27,MaTrPhCk1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Phuentsholing Higher Secondary School,Chukha
+tree,leaf_fall,2016-07-23,MaTrTaLt1,Melia azedarach,Meliaceae,China Berry,Tree,Broad-leaved Decidious,Tangmachu Central School,Lhuentse
+tree,leaf_fall,2016-04-06,MkTrNoWp1,Michelia kisopa,Magnoliaceae,Yellow jade orchid tree,Tree,Broad-leaved Evergreen,Nobding Lower Secondary School,Wangduephodrang
+tree,leaf_fall,2016-07-19,PpTrJaBt1,Prunus persica,Rosaceae,Peach,Tree,Broad-leaved Decidious,Jakar Higher Secondary School,Bumthang
+tree,leaf_fall,2016-09-24,PpTrKhTp1,Prunus persica,Rosaceae,Peach,Tree,Broad-leaved Decidious,Khasadrapchu Middle Secondary School,Thimphu
+tree,leaf_fall,2016-10-05,QgTrBaTy1,Quercus griffithii,Fagaceae,Oak,Tree,Broad-leaved Decidious,Baylling Central School,Trashiyangtse
+tree,leaf_fall,2016-10-07,SaTrDaHa1,Salix alba,Salicaceae,,Tree,Broad-leaved Decidious,Damthang Primary School,Haa
+tree,leaf_fall,2016-03-15,SnTrYuPg1,Saurauia napaulensis,Actinidiacea,,Tree,Broad-leaved Evergreen,Yurung Central School,Pemagatshel
+tree,leaf_fall,2016-03-14,TiTrPeSp1,Tamarindus indica,Leguminaceae,,Tree,Broad-leaved Evergreen,Pelrithang Middle Secondary School,Sarpang
+shrub,bud_burst,2016-02-23,BaShNoWp1,Berberis angulosa,Berberidaceae,Large Flowered Berry,Shrub,Decidious,Nobding Lower Secondary School,Wangduephodrang
+shrub,bud_burst,2016-02-15,CaShPeSp1,Citrus aurantifolia,Rutaceae,,Shrub,Evergreen,Pelrithang Middle Secondary School,Sarpang
+shrub,bud_burst,2016-03-09,CbShKhTp1,Cotoneaster bacillaris,Rosaceae,,Shrub,Decidious,Khasadrapchu Middle Secondary School,Thimphu
+shrub,bud_burst,2016-09-29,ClShJoSj1,Citrus limon,Rutaceae,,Shrub,Decidious,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+shrub,bud_burst,2016-04-11,CmShDaHa1,Cotoneaster microphyllus,Rosaceae,Rockspray,Shrub,Evergreen,Damthang Primary School,Haa
+shrub,bud_burst,2016-04-11,CmShSaTg1,Cotoneaster microphyllus,Rosaceae,Rockspray,Shrub,Evergreen,Sakteng Lower Secondary School,Trashigang
+shrub,bud_burst,2016-03-30,DeShTaLt1,Desmodium elegans ,Leguminaceae,,Shrub,Decidious,Tangmachu Central School,Lhuentse
+shrub,bud_burst,2016-05-06,EfShDaHa1,Elsholtzia fruticosa,Lamiaceae,,Shrub,Decidious,Damthang Primary School,Haa
+shrub,bud_burst,2016-03-23,EpShJaBt1,Elaegnus parvifolia,Elaegnaceae,Silver berry,Shrub,Decidious,Jakar Higher Secondary School,Bumthang
+shrub,bud_burst,2016-04-23,IiShTaLt1,Indigofera indica,Fabaceae,,Shrub,Decidious,Tangmachu Central School,Lhuentse
+shrub,bud_burst,2016-03-22,JcShGyMg1,Jatropa carcus ,Euphorbiaceae,,Shrub,Evergreen,Gyelpozhing Central School,Mongar
+shrub,bud_burst,2016-02-23,LgShGaTg1,Luculia gratissima ,Rubiaceae,Laculia,Shrub,Evergreen,Galing Primary School,Trashigang
+shrub,bud_burst,2016-03-09,OlShTaLt1,Osyris lanceolata,Santalaceae,African sandalwood,Shrub,Evergreen,Tangmachu Central School,Lhuentse
+shrub,bud_burst,2016-03-30,PnShDaHa1,Piptanthus nepalensis,Fabaceae,,Shrub,Evergreen,Damthang Primary School,Haa
+shrub,bud_burst,2016-05-04,RaShNoWp1,Rhododendron arboreum,Ericaceae,Rhododendron,Shrub,Decidious,Nobding Lower Secondary School,Wangduephodrang
+shrub,bud_burst,2016-04-04,RaShSaTg1,Rhododendron arboreum,Ericaceae,Rhododendron,Shrub,Decidious,Sakteng Lower Secondary School,Trashigang
+shrub,bud_burst,2016-02-11,ReShJaBt1,Rubus ellipticus,Rosaceae,Rasp berry,Shrub,Decidious,Jakar Higher Secondary School,Bumthang
+shrub,bud_burst,2016-03-07,RpShGyMg1,Rhus paniculata,Anacardaceae,,Shrub,Evergreen,Gyelpozhing Central School,Mongar
+shrub,bud_burst,2016-03-30,RsShDaHa1,Rosa sericea,Rosaceae,Wild rose,Shrub,Decidious,Damthang Primary School,Haa
+shrub,bud_burst,2016-03-23,RsShJaBt1,Rosa sericea,Rosaceae,Wild rose,Shrub,Decidious,Jakar Higher Secondary School,Bumthang
+shrub,bud_burst,2016-02-29,RsShKhTp1,Rosa sericea,Rosaceae,Wild rose,Shrub,Decidious,Khasadrapchu Middle Secondary School,Thimphu
+shrub,bud_burst,2016-02-24,TdShPeSp1,Tabernaemontana divaricata,Apocynaceae,,Shrub,Evergreen,Pelrithang Middle Secondary School,Sarpang
+shrub,bud_burst,2016-05-26,ZmShPeSp1,Ziziphus mauritiana,Rhamnaceae,,Shrub,Decidious,Pelrithang Middle Secondary School,Sarpang
+shrub,young_leaf,2016-03-05,BaShNoWp1,Berberis angulosa,Berberidaceae,Large Flowered Berry,Shrub,Decidious,Nobding Lower Secondary School,Wangduephodrang
+shrub,young_leaf,2016-02-16,CaShPeSp1,Citrus aurantifolia,Rutaceae,,Shrub,Evergreen,Pelrithang Middle Secondary School,Sarpang
+shrub,young_leaf,2016-03-14,CbShKhTp1,Cotoneaster bacillaris,Rosaceae,,Shrub,Decidious,Khasadrapchu Middle Secondary School,Thimphu
+shrub,young_leaf,2016-10-01,ClShJoSj1,Citrus limon,Rutaceae,,Shrub,Decidious,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+shrub,young_leaf,2016-04-13,CmShSaTg1,Cotoneaster microphyllus,Rosaceae,Rockspray,Shrub,Evergreen,Sakteng Lower Secondary School,Trashigang
+shrub,young_leaf,2016-03-02,CvShYuPg1,Clearodendrum viscosum,Lamiaceae,,Shrub,Evergreen,Yurung Central School,Pemagatshel
+shrub,young_leaf,2016-04-22,DeShTaLt1,Desmodium elegans ,Leguminaceae,,Shrub,Decidious,Tangmachu Central School,Lhuentse
+shrub,young_leaf,2016-05-12,EfShDaHa1,Elsholtzia fruticosa,Lamiaceae,,Shrub,Decidious,Damthang Primary School,Haa
+shrub,young_leaf,2016-03-12,EpShBjGs1,Elaegnus parvifolia,Elaegnaceae,Silver berry,Shrub,Decidious,Bjishong Central School,Gasa
+shrub,young_leaf,2016-03-02,EpShYuPg1,Elaegnus parvifolia,Elaegnaceae,Silver berry,Shrub,Decidious,Yurung Central School,Pemagatshel
+shrub,young_leaf,2016-04-28,IiShTaLt1,Indigofera indica,Fabaceae,,Shrub,Decidious,Tangmachu Central School,Lhuentse
+shrub,young_leaf,2016-03-27,JcShGyMg1,Jatropa carcus ,Euphorbiaceae,,Shrub,Evergreen,Gyelpozhing Central School,Mongar
+shrub,young_leaf,2016-02-23,LgShGaTg1,Luculia gratissima ,Rubiaceae,Laculia,Shrub,Evergreen,Galing Primary School,Trashigang
+shrub,young_leaf,2016-03-17,OlShTaLt1,Osyris lanceolata,Santalaceae,African sandalwood,Shrub,Evergreen,Tangmachu Central School,Lhuentse
+shrub,young_leaf,2016-05-08,RaShNoWp1,Rhododendron arboreum,Ericaceae,Rhododendron,Shrub,Decidious,Nobding Lower Secondary School,Wangduephodrang
+shrub,young_leaf,2016-02-29,ReShJaBt1,Rubus ellipticus,Rosaceae,Rasp berry,Shrub,Decidious,Jakar Higher Secondary School,Bumthang
+shrub,young_leaf,2016-03-18,RpShGyMg1,Rhus paniculata,Anacardaceae,,Shrub,Evergreen,Gyelpozhing Central School,Mongar
+shrub,young_leaf,2016-04-11,RsShDaHa1,Rosa sericea,Rosaceae,Wild rose,Shrub,Decidious,Damthang Primary School,Haa
+shrub,young_leaf,2016-04-04,RsShJaBt1,Rosa sericea,Rosaceae,Wild rose,Shrub,Decidious,Jakar Higher Secondary School,Bumthang
+shrub,young_leaf,2016-03-05,RsShKhTp1,Rosa sericea,Rosaceae,Wild rose,Shrub,Decidious,Khasadrapchu Middle Secondary School,Thimphu
+shrub,young_leaf,2016-03-01,TdShPeSp1,Tabernaemontana divaricata,Apocynaceae,,Shrub,Evergreen,Pelrithang Middle Secondary School,Sarpang
+shrub,young_leaf,2016-03-01,ZaShGeDg1,Zanthoxylum armatum,Rutaceae,,Shrub,Decidious,Gesarling Central School,Dagana
+shrub,young_leaf,2016-06-06,ZmShPeSp1,Ziziphus mauritiana,Rhamnaceae,,Shrub,Decidious,Pelrithang Middle Secondary School,Sarpang
+shrub,flower_bud,2016-03-02,BaShBjGs1,Berberis angulosa,Berberidaceae,Large Flowered Berry,Shrub,Decidious,Bjishong Central School,Gasa
+shrub,flower_bud,2016-03-16,BaShNoWp1,Berberis angulosa,Berberidaceae,Large Flowered Berry,Shrub,Decidious,Nobding Lower Secondary School,Wangduephodrang
+shrub,flower_bud,2016-03-03,CaShPeSp1,Citrus aurantifolia,Rutaceae,,Shrub,Evergreen,Pelrithang Middle Secondary School,Sarpang
+shrub,flower_bud,2016-04-14,CbShKhTp1,Cotoneaster bacillaris,Rosaceae,,Shrub,Decidious,Khasadrapchu Middle Secondary School,Thimphu
+shrub,flower_bud,2016-04-27,CmShDaHa1,Cotoneaster microphyllus,Rosaceae,Rockspray,Shrub,Evergreen,Damthang Primary School,Haa
+shrub,flower_bud,2016-04-11,CmShJaBt1,Cotoneaster microphyllus,Rosaceae,Rockspray,Shrub,Evergreen,Jakar Higher Secondary School,Bumthang
+shrub,flower_bud,2016-08-09,CvShYuPg1,Clearodendrum viscosum,Lamiaceae,,Shrub,Evergreen,Yurung Central School,Pemagatshel
+shrub,flower_bud,2016-10-01,DeShTaLt1,Desmodium elegans ,Leguminaceae,,Shrub,Decidious,Tangmachu Central School,Lhuentse
+shrub,flower_bud,2016-03-10,EpShBaTy1,Elaegnus parvifolia,Elaegnaceae,Silver berry,Shrub,Decidious,Baylling Central School,Trashiyangtse
+shrub,flower_bud,2016-04-22,EpShJaBt1,Elaegnus parvifolia,Elaegnaceae,Silver berry,Shrub,Decidious,Jakar Higher Secondary School,Bumthang
+shrub,flower_bud,2016-03-11,EpShYuPg1,Elaegnus parvifolia,Elaegnaceae,Silver berry,Shrub,Decidious,Yurung Central School,Pemagatshel
+shrub,flower_bud,2016-03-23,HrShMeTr1,Hibiscus rosasinensis,Malvaceae,,Shrub,Decidious,Mendrelgang Central School,Tsirang
+shrub,flower_bud,2016-06-09,IiShTaLt1,Indigofera indica,Fabaceae,,Shrub,Decidious,Tangmachu Central School,Lhuentse
+shrub,flower_bud,2016-04-05,JcShGyMg1,Jatropa carcus ,Euphorbiaceae,,Shrub,Evergreen,Gyelpozhing Central School,Mongar
+shrub,flower_bud,2016-04-30,OlShTaLt1,Osyris lanceolata,Santalaceae,African sandalwood,Shrub,Evergreen,Tangmachu Central School,Lhuentse
+shrub,flower_bud,2016-04-11,PnShDaHa1,Piptanthus nepalensis,Fabaceae,,Shrub,Evergreen,Damthang Primary School,Haa
+shrub,flower_bud,2016-03-03,RaShBaTy1,Rhododendron arboreum,Ericaceae,Rhododendron,Shrub,Decidious,Baylling Central School,Trashiyangtse
+shrub,flower_bud,2016-09-29,RaShBaTy1,Rhododendron arboreum,Ericaceae,Rhododendron,Shrub,Decidious,Baylling Central School,Trashiyangtse
+shrub,flower_bud,2016-03-22,RaShSaTg1,Rhododendron arboreum,Ericaceae,Rhododendron,Shrub,Decidious,Sakteng Lower Secondary School,Trashigang
+shrub,flower_bud,2016-02-28,RcShTeSt1,Ricinus communis,Euphorbiaceae,,Shrub,Evergreen,Tendruk Central School,Samtse
+shrub,flower_bud,2016-04-04,ReShJaBt1,Rubus ellipticus,Rosaceae,Rasp berry,Shrub,Decidious,Jakar Higher Secondary School,Bumthang
+shrub,flower_bud,2016-08-19,RpShGyMg1,Rhus paniculata,Anacardaceae,,Shrub,Evergreen,Gyelpozhing Central School,Mongar
+shrub,flower_bud,2016-04-27,RsShDaHa1,Rosa sericea,Rosaceae,Wild rose,Shrub,Decidious,Damthang Primary School,Haa
+shrub,flower_bud,2016-04-11,RsShJaBt1,Rosa sericea,Rosaceae,Wild rose,Shrub,Decidious,Jakar Higher Secondary School,Bumthang
+shrub,flower_bud,2016-03-25,RsShKhTp1,Rosa sericea,Rosaceae,Wild rose,Shrub,Decidious,Khasadrapchu Middle Secondary School,Thimphu
+shrub,flower_bud,2016-03-10,TdShPeSp1,Tabernaemontana divaricata,Apocynaceae,,Shrub,Evergreen,Pelrithang Middle Secondary School,Sarpang
+shrub,flower_bud,2016-09-01,ZmShPeSp1,Ziziphus mauritiana,Rhamnaceae,,Shrub,Decidious,Pelrithang Middle Secondary School,Sarpang
+shrub,flower,2016-03-25,BaShBjGs1,Berberis angulosa,Berberidaceae,Large Flowered Berry,Shrub,Decidious,Bjishong Central School,Gasa
+shrub,flower,2016-05-23,BaShNoWp1,Berberis angulosa,Berberidaceae,Large Flowered Berry,Shrub,Decidious,Nobding Lower Secondary School,Wangduephodrang
+shrub,flower,2016-03-09,CaShPeSp1,Citrus aurantifolia,Rutaceae,,Shrub,Evergreen,Pelrithang Middle Secondary School,Sarpang
+shrub,flower,2016-04-18,CbShKhTp1,Cotoneaster bacillaris,Rosaceae,,Shrub,Decidious,Khasadrapchu Middle Secondary School,Thimphu
+shrub,flower,2016-05-06,CmShDaHa1,Cotoneaster microphyllus,Rosaceae,Rockspray,Shrub,Evergreen,Damthang Primary School,Haa
+shrub,flower,2016-04-30,CmShJaBt1,Cotoneaster microphyllus,Rosaceae,Rockspray,Shrub,Evergreen,Jakar Higher Secondary School,Bumthang
+shrub,flower,2016-08-23,CvShYuPg1,Clearodendrum viscosum,Lamiaceae,,Shrub,Evergreen,Yurung Central School,Pemagatshel
+shrub,flower,2016-10-10,DeShTaLt1,Desmodium elegans ,Leguminaceae,,Shrub,Decidious,Tangmachu Central School,Lhuentse
+shrub,flower,2016-10-13,EfShDaHa1,Elsholtzia fruticosa,Lamiaceae,,Shrub,Decidious,Damthang Primary School,Haa
+shrub,flower,2016-03-30,EpShBaTy1,Elaegnus parvifolia,Elaegnaceae,Silver berry,Shrub,Decidious,Baylling Central School,Trashiyangtse
+shrub,flower,2016-03-22,EpShYuPg1,Elaegnus parvifolia,Elaegnaceae,Silver berry,Shrub,Decidious,Yurung Central School,Pemagatshel
+shrub,flower,2016-06-28,HrShMeTr1,Hibiscus rosasinensis,Malvaceae,,Shrub,Decidious,Mendrelgang Central School,Tsirang
+shrub,flower,2016-06-10,IiShTaLt1,Indigofera indica,Fabaceae,,Shrub,Decidious,Tangmachu Central School,Lhuentse
+shrub,flower,2016-02-08,JaShPhCk1,Justicia adhatoda,Acanthaceae,Malabar nut tree,Shrub,Evergreen,Phuentsholing Higher Secondary School,Chukha
+shrub,flower,2016-04-20,JcShGyMg1,Jatropa carcus ,Euphorbiaceae,,Shrub,Evergreen,Gyelpozhing Central School,Mongar
+shrub,flower,2016-06-22,OlShTaLt1,Osyris lanceolata,Santalaceae,African sandalwood,Shrub,Evergreen,Tangmachu Central School,Lhuentse
+shrub,flower,2016-04-18,PnShDaHa1,Piptanthus nepalensis,Fabaceae,,Shrub,Evergreen,Damthang Primary School,Haa
+shrub,flower,2016-03-13,RaShBaTy1,Rhododendron arboreum,Ericaceae,Rhododendron,Shrub,Decidious,Baylling Central School,Trashiyangtse
+shrub,flower,2016-03-05,RaShNoWp1,Rhododendron arboreum,Ericaceae,Rhododendron,Shrub,Decidious,Nobding Lower Secondary School,Wangduephodrang
+shrub,flower,2016-04-01,RaShSaTg1,Rhododendron arboreum,Ericaceae,Rhododendron,Shrub,Decidious,Sakteng Lower Secondary School,Trashigang
+shrub,flower,2016-03-04,RcShTeSt1,Ricinus communis,Euphorbiaceae,,Shrub,Evergreen,Tendruk Central School,Samtse
+shrub,flower,2016-03-01,ReShBjGs1,Rubus ellipticus,Rosaceae,Rasp berry,Shrub,Decidious,Bjishong Central School,Gasa
+shrub,flower,2016-04-19,ReShJaBt1,Rubus ellipticus,Rosaceae,Rasp berry,Shrub,Decidious,Jakar Higher Secondary School,Bumthang
+shrub,flower,2016-09-01,RpShGyMg1,Rhus paniculata,Anacardaceae,,Shrub,Evergreen,Gyelpozhing Central School,Mongar
+shrub,flower,2016-05-06,RsShDaHa1,Rosa sericea,Rosaceae,Wild rose,Shrub,Decidious,Damthang Primary School,Haa
+shrub,flower,2016-04-28,RsShJaBt1,Rosa sericea,Rosaceae,Wild rose,Shrub,Decidious,Jakar Higher Secondary School,Bumthang
+shrub,flower,2016-03-28,RsShKhTp1,Rosa sericea,Rosaceae,Wild rose,Shrub,Decidious,Khasadrapchu Middle Secondary School,Thimphu
+shrub,flower,2016-03-14,TdShPeSp1,Tabernaemontana divaricata,Apocynaceae,,Shrub,Evergreen,Pelrithang Middle Secondary School,Sarpang
+shrub,flower,2016-09-09,ZmShPeSp1,Ziziphus mauritiana,Rhamnaceae,,Shrub,Decidious,Pelrithang Middle Secondary School,Sarpang
+shrub,fruit,2016-04-10,BaShBjGs1,Berberis angulosa,Berberidaceae,Large Flowered Berry,Shrub,Decidious,Bjishong Central School,Gasa
+shrub,fruit,2016-05-07,BaShNoWp1,Berberis angulosa,Berberidaceae,Large Flowered Berry,Shrub,Decidious,Nobding Lower Secondary School,Wangduephodrang
+shrub,fruit,2016-03-17,CaShPeSp1,Citrus aurantifolia,Rutaceae,,Shrub,Evergreen,Pelrithang Middle Secondary School,Sarpang
+shrub,fruit,2016-05-03,CbShKhTp1,Cotoneaster bacillaris,Rosaceae,,Shrub,Decidious,Khasadrapchu Middle Secondary School,Thimphu
+shrub,fruit,2016-07-21,CmShDaHa1,Cotoneaster microphyllus,Rosaceae,Rockspray,Shrub,Evergreen,Damthang Primary School,Haa
+shrub,fruit,2016-05-28,CmShJaBt1,Cotoneaster microphyllus,Rosaceae,Rockspray,Shrub,Evergreen,Jakar Higher Secondary School,Bumthang
+shrub,fruit,2016-06-20,CmShSaTg1,Cotoneaster microphyllus,Rosaceae,Rockspray,Shrub,Evergreen,Sakteng Lower Secondary School,Trashigang
+shrub,fruit,2016-09-06,CvShYuPg1,Clearodendrum viscosum,Lamiaceae,,Shrub,Evergreen,Yurung Central School,Pemagatshel
+shrub,fruit,2016-04-24,EpShBaTy1,Elaegnus parvifolia,Elaegnaceae,Silver berry,Shrub,Decidious,Baylling Central School,Trashiyangtse
+shrub,fruit,2016-04-10,EpShBjGs1,Elaegnus parvifolia,Elaegnaceae,Silver berry,Shrub,Decidious,Bjishong Central School,Gasa
+shrub,fruit,2016-05-23,EpShJaBt1,Elaegnus parvifolia,Elaegnaceae,Silver berry,Shrub,Decidious,Jakar Higher Secondary School,Bumthang
+shrub,fruit,2016-04-21,EpShYuPg1,Elaegnus parvifolia,Elaegnaceae,Silver berry,Shrub,Decidious,Yurung Central School,Pemagatshel
+shrub,fruit,2016-07-23,IiShTaLt1,Indigofera indica,Fabaceae,,Shrub,Decidious,Tangmachu Central School,Lhuentse
+shrub,fruit,2016-02-16,JaShPhCk1,Justicia adhatoda,Acanthaceae,Malabar nut tree,Shrub,Evergreen,Phuentsholing Higher Secondary School,Chukha
+shrub,fruit,2016-05-17,JcShGyMg1,Jatropa carcus ,Euphorbiaceae,,Shrub,Evergreen,Gyelpozhing Central School,Mongar
+shrub,fruit,2016-03-23,McShMeTr1,Maesa chisa,Myrsinaceae,,Shrub,Decidious,Mendrelgang Central School,Tsirang
+shrub,fruit,2016-07-23,OlShTaLt1,Osyris lanceolata,Santalaceae,African sandalwood,Shrub,Evergreen,Tangmachu Central School,Lhuentse
+shrub,fruit,2016-03-27,RaShNoWp1,Rhododendron arboreum,Ericaceae,Rhododendron,Shrub,Decidious,Nobding Lower Secondary School,Wangduephodrang
+shrub,fruit,2016-03-21,RcShTeSt1,Ricinus communis,Euphorbiaceae,,Shrub,Evergreen,Tendruk Central School,Samtse
+shrub,fruit,2016-04-10,ReShBjGs1,Rubus ellipticus,Rosaceae,Rasp berry,Shrub,Decidious,Bjishong Central School,Gasa
+shrub,fruit,2016-03-15,ReShGeDg1,Rubus ellipticus,Rosaceae,Rasp berry,Shrub,Decidious,Gesarling Central School,Dagana
+shrub,fruit,2016-05-28,ReShJaBt1,Rubus ellipticus,Rosaceae,Rasp berry,Shrub,Decidious,Jakar Higher Secondary School,Bumthang
+shrub,fruit,2016-09-26,RpShGyMg1,Rhus paniculata,Anacardaceae,,Shrub,Evergreen,Gyelpozhing Central School,Mongar
+shrub,fruit,2016-06-09,RsShDaHa1,Rosa sericea,Rosaceae,Wild rose,Shrub,Decidious,Damthang Primary School,Haa
+shrub,fruit,2016-05-13,RsShJaBt1,Rosa sericea,Rosaceae,Wild rose,Shrub,Decidious,Jakar Higher Secondary School,Bumthang
+shrub,fruit,2016-04-04,RsShKhTp1,Rosa sericea,Rosaceae,Wild rose,Shrub,Decidious,Khasadrapchu Middle Secondary School,Thimphu
+shrub,fruit,2016-03-17,TdShPeSp1,Tabernaemontana divaricata,Apocynaceae,,Shrub,Evergreen,Pelrithang Middle Secondary School,Sarpang
+shrub,fruit,2016-04-17,VcShGaTg1,Viburnum cylindricum,Adoxaceae,,Shrub,Decidious,Galing Primary School,Trashigang
+shrub,fruit,2016-10-07,ZmShPeSp1,Ziziphus mauritiana,Rhamnaceae,,Shrub,Decidious,Pelrithang Middle Secondary School,Sarpang
+shrub,ripe_fruit,2016-09-03,CaShPeSp1,Citrus aurantifolia,Rutaceae,,Shrub,Evergreen,Pelrithang Middle Secondary School,Sarpang
+shrub,ripe_fruit,2016-07-16,CbShKhTp1,Cotoneaster bacillaris,Rosaceae,,Shrub,Decidious,Khasadrapchu Middle Secondary School,Thimphu
+shrub,ripe_fruit,2016-08-17,CmShDaHa1,Cotoneaster microphyllus,Rosaceae,Rockspray,Shrub,Evergreen,Damthang Primary School,Haa
+shrub,ripe_fruit,2016-07-16,CmShJaBt1,Cotoneaster microphyllus,Rosaceae,Rockspray,Shrub,Evergreen,Jakar Higher Secondary School,Bumthang
+shrub,ripe_fruit,2016-07-25,EpShBaTy1,Elaegnus parvifolia,Elaegnaceae,Silver berry,Shrub,Decidious,Baylling Central School,Trashiyangtse
+shrub,ripe_fruit,2016-04-27,EpShBjGs1,Elaegnus parvifolia,Elaegnaceae,Silver berry,Shrub,Decidious,Bjishong Central School,Gasa
+shrub,ripe_fruit,2016-08-11,EpShJaBt1,Elaegnus parvifolia,Elaegnaceae,Silver berry,Shrub,Decidious,Jakar Higher Secondary School,Bumthang
+shrub,ripe_fruit,2016-06-21,EpShYuPg1,Elaegnus parvifolia,Elaegnaceae,Silver berry,Shrub,Decidious,Yurung Central School,Pemagatshel
+shrub,ripe_fruit,2016-03-21,JaShPhCk1,Justicia adhatoda,Acanthaceae,Malabar nut tree,Shrub,Evergreen,Phuentsholing Higher Secondary School,Chukha
+shrub,ripe_fruit,2016-06-23,JcShGyMg1,Jatropa carcus ,Euphorbiaceae,,Shrub,Evergreen,Gyelpozhing Central School,Mongar
+shrub,ripe_fruit,2016-09-04,OlShTaLt1,Osyris lanceolata,Santalaceae,African sandalwood,Shrub,Evergreen,Tangmachu Central School,Lhuentse
+shrub,ripe_fruit,2016-05-06,ReShBjGs1,Rubus ellipticus,Rosaceae,Rasp berry,Shrub,Decidious,Bjishong Central School,Gasa
+shrub,ripe_fruit,2016-04-22,ReShGeDg1,Rubus ellipticus,Rosaceae,Rasp berry,Shrub,Decidious,Gesarling Central School,Dagana
+shrub,ripe_fruit,2016-06-10,ReShJaBt1,Rubus ellipticus,Rosaceae,Rasp berry,Shrub,Decidious,Jakar Higher Secondary School,Bumthang
+shrub,ripe_fruit,2016-07-21,RsShDaHa1,Rosa sericea,Rosaceae,Wild rose,Shrub,Decidious,Damthang Primary School,Haa
+shrub,ripe_fruit,2016-06-16,RsShJaBt1,Rosa sericea,Rosaceae,Wild rose,Shrub,Decidious,Jakar Higher Secondary School,Bumthang
+shrub,ripe_fruit,2016-05-13,RsShKhTp1,Rosa sericea,Rosaceae,Wild rose,Shrub,Decidious,Khasadrapchu Middle Secondary School,Thimphu
+shrub,ripe_fruit,2016-04-24,TdShPeSp1,Tabernaemontana divaricata,Apocynaceae,,Shrub,Evergreen,Pelrithang Middle Secondary School,Sarpang
+shrub,ripe_fruit,2016-04-28,VcShGaTg1,Viburnum cylindricum,Adoxaceae,,Shrub,Decidious,Galing Primary School,Trashigang
+shrub,ripe_fruit,2016-08-07,ZaShGeDg1,Zanthoxylum armatum,Rutaceae,,Shrub,Decidious,Gesarling Central School,Dagana
+shrub,leaf_fall,2016-09-12,BaShNoWp1,Berberis angulosa,Berberidaceae,Large Flowered Berry,Shrub,Decidious,Nobding Lower Secondary School,Wangduephodrang
+shrub,leaf_fall,2016-09-19,CbShKhTp1,Cotoneaster bacillaris,Rosaceae,,Shrub,Decidious,Khasadrapchu Middle Secondary School,Thimphu
+shrub,leaf_fall,2016-08-08,CmShJaBt1,Cotoneaster microphyllus,Rosaceae,Rockspray,Shrub,Evergreen,Jakar Higher Secondary School,Bumthang
+shrub,leaf_fall,2016-09-29,EpShBaTy1,Elaegnus parvifolia,Elaegnaceae,Silver berry,Shrub,Decidious,Baylling Central School,Trashiyangtse
+shrub,leaf_fall,2016-07-19,EpShJaBt1,Elaegnus parvifolia,Elaegnaceae,Silver berry,Shrub,Decidious,Jakar Higher Secondary School,Bumthang
+shrub,leaf_fall,2016-06-06,JcShGyMg1,Jatropa carcus ,Euphorbiaceae,,Shrub,Evergreen,Gyelpozhing Central School,Mongar
+shrub,leaf_fall,2016-07-16,ReShJaBt1,Rubus ellipticus,Rosaceae,Rasp berry,Shrub,Decidious,Jakar Higher Secondary School,Bumthang
+shrub,leaf_fall,2016-04-29,RpShGyMg1,Rhus paniculata,Anacardaceae,,Shrub,Evergreen,Gyelpozhing Central School,Mongar
+shrub,leaf_fall,2016-10-10,RsShKhTp1,Rosa sericea,Rosaceae,Wild rose,Shrub,Decidious,Khasadrapchu Middle Secondary School,Thimphu
+shrub,leaf_fall,2016-03-14,ZmShPeSp1,Ziziphus mauritiana,Rhamnaceae,,Shrub,Decidious,Pelrithang Middle Secondary School,Sarpang
+herb,initial_growth,2016-03-11,AcHePeSp1,Ageratum conyzoides,Asteraceae,,Herb,Annual,Pelrithang Middle Secondary School,Sarpang
+herb,initial_growth,2016-06-12,AuHeTeSt1,Acmella uliginosa,Asteraceae,,Herb,Annual,Tendruk Central School,Samtse
+herb,initial_growth,2016-02-09,BpHeGyMg1,Bidens pilosa,Asteraceae,,Herb,Annual,Gyelpozhing Central School,Mongar
+herb,initial_growth,2016-03-10,BpHeJoSj1,Bidens pilosa,Asteraceae,,Herb,Annual,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+herb,initial_growth,2016-03-14,BpHeKhTp1,Bidens pilosa,Asteraceae,,Herb,Annual,Khasadrapchu Middle Secondary School,Thimphu
+herb,initial_growth,2016-03-11,BpHePeSp1,Bidens pilosa,Asteraceae,,Herb,Annual,Pelrithang Middle Secondary School,Sarpang
+herb,initial_growth,2016-02-24,BpHeTeSt1,Bidens pilosa,Asteraceae,,Herb,Annual,Tendruk Central School,Samtse
+herb,initial_growth,2016-07-09,CbHeJaBt1,Cosmos bipinnatus,Asteraceae,Garden cosmos,Herb,Annual,Jakar Higher Secondary School,Bumthang
+herb,initial_growth,2016-03-25,ChHeGaTg1,Cymbidium hookerainum ,Orchidaceae,Hookers Orchid,Herb,Epiphytic,Galing Primary School,Trashigang
+herb,initial_growth,2016-04-09,ChHeTaLt1,Cymbidium hookerainum ,Orchidaceae,Hookers Orchid,Herb,Epiphytic,Tangmachu Central School,Lhuentse
+herb,initial_growth,2016-03-30,CkHeGaTg1,Cymbopogon khasianus ,Graminae,Lemon grass,Herb,Annual,Galing Primary School,Trashigang
+herb,initial_growth,2016-03-30,CkHeTaLt1,Cymbopogon khasianus ,Graminae,Lemon grass,Herb,Annual,Tangmachu Central School,Lhuentse
+herb,initial_growth,2016-02-18,FnHeJaBt1,Fragaria nubicola ,Rosaceae,Strawberry,Herb,Perrinial,Jakar Higher Secondary School,Bumthang
+herb,initial_growth,2016-03-29,FnHeSaTg1,Fragaria nubicola ,Rosaceae,Strawberry,Herb,Perrinial,Sakteng Lower Secondary School,Trashigang
+herb,initial_growth,2016-04-01,GdHePhCk1,Girardinia diversifolia,Urticaceae,,Herb,Annual,Phuentsholing Higher Secondary School,Chukha
+herb,initial_growth,2016-02-24,PdHeJaBt1,Primula denticulata,Primulaceae,Primrose,Herb,Perrinial,Jakar Higher Secondary School,Bumthang
+herb,initial_growth,2016-03-10,PlHeDaHa1,Potentilla lineata,Rosaceae,,Herb,Perrinial,Damthang Primary School,Haa
+herb,initial_growth,2016-03-29,PlHeSaTg1,Potentilla lineata,Rosaceae,,Herb,Perrinial,Sakteng Lower Secondary School,Trashigang
+herb,initial_growth,2016-03-21,RnHeKhTp1,Rumex nepalensis,Polygonaceae,,Herb,Perrinial,Khasadrapchu Middle Secondary School,Thimphu
+herb,initial_growth,2016-03-01,TrHeDaHa1,Trifolium repens,Fabaceae,,Herb,Annual,Damthang Primary School,Haa
+herb,leaf,2016-06-14,AuHeTeSt1,Acmella uliginosa,Asteraceae,,Herb,Annual,Tendruk Central School,Samtse
+herb,leaf,2016-02-09,BpHeGyMg1,Bidens pilosa,Asteraceae,,Herb,Annual,Gyelpozhing Central School,Mongar
+herb,leaf,2016-03-31,BpHeJoSj1,Bidens pilosa,Asteraceae,,Herb,Annual,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+herb,leaf,2016-03-23,BpHeKhTp1,Bidens pilosa,Asteraceae,,Herb,Annual,Khasadrapchu Middle Secondary School,Thimphu
+herb,leaf,2016-02-24,BpHeTeSt1,Bidens pilosa,Asteraceae,,Herb,Annual,Tendruk Central School,Samtse
+herb,leaf,2016-07-09,CbHeJaBt1,Cosmos bipinnatus,Asteraceae,Garden cosmos,Herb,Annual,Jakar Higher Secondary School,Bumthang
+herb,leaf,2016-03-31,ChHeGaTg1,Cymbidium hookerainum ,Orchidaceae,Hookers Orchid,Herb,Epiphytic,Galing Primary School,Trashigang
+herb,leaf,2016-04-12,CkHeGaTg1,Cymbopogon khasianus ,Graminae,Lemon grass,Herb,Annual,Galing Primary School,Trashigang
+herb,leaf,2016-02-18,FnHeJaBt1,Fragaria nubicola ,Rosaceae,Strawberry,Herb,Perrinial,Jakar Higher Secondary School,Bumthang
+herb,leaf,2016-03-29,PdHeJaBt1,Primula denticulata,Primulaceae,Primrose,Herb,Perrinial,Jakar Higher Secondary School,Bumthang
+herb,leaf,2016-02-13,PhHeGyMg1,Parthenium hysterophorus,Compositaceae,Whitetop weed,Herb,Annual,Gyelpozhing Central School,Mongar
+herb,leaf,2016-03-10,PlHeDaHa1,Potentilla lineata,Rosaceae,,Herb,Perrinial,Damthang Primary School,Haa
+herb,leaf,2016-04-13,PlHeSaTg1,Potentilla lineata,Rosaceae,,Herb,Perrinial,Sakteng Lower Secondary School,Trashigang
+herb,flower_bud,2016-02-10,AaHeTeSt1,Ageratina adenophora,Asteraceae,,Herb,Perrinial,Tendruk Central School,Samtse
+herb,flower_bud,2016-03-21,AcHePeSp1,Ageratum conyzoides,Asteraceae,,Herb,Annual,Pelrithang Middle Secondary School,Sarpang
+herb,flower_bud,2016-06-18,AuHeTeSt1,Acmella uliginosa,Asteraceae,,Herb,Annual,Tendruk Central School,Samtse
+herb,flower_bud,2016-05-13,BpHeGyMg1,Bidens pilosa,Asteraceae,,Herb,Annual,Gyelpozhing Central School,Mongar
+herb,flower_bud,2016-09-12,BpHeJoSj1,Bidens pilosa,Asteraceae,,Herb,Annual,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+herb,flower_bud,2016-05-17,BpHeKhTp1,Bidens pilosa,Asteraceae,,Herb,Annual,Khasadrapchu Middle Secondary School,Thimphu
+herb,flower_bud,2016-03-21,BpHePeSp1,Bidens pilosa,Asteraceae,,Herb,Annual,Pelrithang Middle Secondary School,Sarpang
+herb,flower_bud,2016-03-30,BpHeTeSt1,Bidens pilosa,Asteraceae,,Herb,Annual,Tendruk Central School,Samtse
+herb,flower_bud,2016-07-20,CbHeJaBt1,Cosmos bipinnatus,Asteraceae,Garden cosmos,Herb,Annual,Jakar Higher Secondary School,Bumthang
+herb,flower_bud,2016-03-23,ChHeGaTg1,Cymbidium hookerainum ,Orchidaceae,Hookers Orchid,Herb,Epiphytic,Galing Primary School,Trashigang
+herb,flower_bud,2016-10-05,ChHeTaLt1,Cymbidium hookerainum ,Orchidaceae,Hookers Orchid,Herb,Epiphytic,Tangmachu Central School,Lhuentse
+herb,flower_bud,2016-04-06,ChHeYuPg1,Cymbidium hookerainum ,Orchidaceae,Hookers Orchid,Herb,Epiphytic,Yurung Central School,Pemagatshel
+herb,flower_bud,2016-09-04,CkHeTaLt1,Cymbopogon khasianus ,Graminae,Lemon grass,Herb,Annual,Tangmachu Central School,Lhuentse
+herb,flower_bud,2016-05-26,CsHeKhTp1,Cannabis sativa,Cannabaceae,,Herb,Annual,Khasadrapchu Middle Secondary School,Thimphu
+herb,flower_bud,2016-04-28,DdHeJoSj1,Dendrobium densiflorum ,Orchidaceae,Pinapple orchid,Herb,Epiphytic,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+herb,flower_bud,2016-03-16,EcHeYuPg1,Elettaria cardamomum,Zingiberaceae,Cardamom,Herb,Perrinial,Yurung Central School,Pemagatshel
+herb,flower_bud,2016-04-06,FnHeBaTy1,Fragaria nubicola ,Rosaceae,Strawberry,Herb,Perrinial,Baylling Central School,Trashiyangtse
+herb,flower_bud,2016-03-23,FnHeJaBt1,Fragaria nubicola ,Rosaceae,Strawberry,Herb,Perrinial,Jakar Higher Secondary School,Bumthang
+herb,flower_bud,2016-03-08,FnHeNoWp1,Fragaria nubicola ,Rosaceae,Strawberry,Herb,Perrinial,Nobding Lower Secondary School,Wangduephodrang
+herb,flower_bud,2016-04-14,FnHeSaTg1,Fragaria nubicola ,Rosaceae,Strawberry,Herb,Perrinial,Sakteng Lower Secondary School,Trashigang
+herb,flower_bud,2016-04-04,PdHeJaBt1,Primula denticulata,Primulaceae,Primrose,Herb,Perrinial,Jakar Higher Secondary School,Bumthang
+herb,flower_bud,2016-02-15,PdHeNoWp1,Primula denticulata,Primulaceae,Primrose,Herb,Perrinial,Nobding Lower Secondary School,Wangduephodrang
+herb,flower_bud,2016-06-06,PhHeGyMg1,Parthenium hysterophorus,Compositaceae,Whitetop weed,Herb,Annual,Gyelpozhing Central School,Mongar
+herb,flower_bud,2016-07-06,PlHeBaTy1,Potentilla lineata,Rosaceae,,Herb,Perrinial,Baylling Central School,Trashiyangtse
+herb,flower_bud,2016-06-09,PlHeDaHa1,Potentilla lineata,Rosaceae,,Herb,Perrinial,Damthang Primary School,Haa
+herb,flower_bud,2016-07-16,PlHeSaTg1,Potentilla lineata,Rosaceae,,Herb,Perrinial,Sakteng Lower Secondary School,Trashigang
+herb,flower_bud,2016-03-09,RnHeGeDg1,Rumex nepalensis,Polygonaceae,,Herb,Perrinial,Gesarling Central School,Dagana
+herb,flower_bud,2016-05-31,RnHeKhTp1,Rumex nepalensis,Polygonaceae,,Herb,Perrinial,Khasadrapchu Middle Secondary School,Thimphu
+herb,flower_bud,2016-08-28,SpHeNoWp1,Swertia petiolata,Gentianaceae,,Herb,Annual,Nobding Lower Secondary School,Wangduephodrang
+herb,flower_bud,2016-03-14,ToHeKhTp1,Taraxacum officinale,Asteraceae,,Herb,Perrinial,Khasadrapchu Middle Secondary School,Thimphu
+herb,flower_bud,2016-04-27,TrHeDaHa1,Trifolium repens,Fabaceae,,Herb,Annual,Damthang Primary School,Haa
+herb,flower,2016-02-28,AaHeTeSt1,Ageratina adenophora,Asteraceae,,Herb,Perrinial,Tendruk Central School,Samtse
+herb,flower,2016-03-30,AcHePeSp1,Ageratum conyzoides,Asteraceae,,Herb,Annual,Pelrithang Middle Secondary School,Sarpang
+herb,flower,2016-06-23,AuHeTeSt1,Acmella uliginosa,Asteraceae,,Herb,Annual,Tendruk Central School,Samtse
+herb,flower,2016-05-18,BpHeGyMg1,Bidens pilosa,Asteraceae,,Herb,Annual,Gyelpozhing Central School,Mongar
+herb,flower,2016-09-17,BpHeJoSj1,Bidens pilosa,Asteraceae,,Herb,Annual,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+herb,flower,2016-05-23,BpHeKhTp1,Bidens pilosa,Asteraceae,,Herb,Annual,Khasadrapchu Middle Secondary School,Thimphu
+herb,flower,2016-04-01,BpHePeSp1,Bidens pilosa,Asteraceae,,Herb,Annual,Pelrithang Middle Secondary School,Sarpang
+herb,flower,2016-04-04,BpHeTeSt1,Bidens pilosa,Asteraceae,,Herb,Annual,Tendruk Central School,Samtse
+herb,flower,2016-07-27,CbHeJaBt1,Cosmos bipinnatus,Asteraceae,Garden cosmos,Herb,Annual,Jakar Higher Secondary School,Bumthang
+herb,flower,2016-04-20,ChHeGaTg1,Cymbidium hookerainum ,Orchidaceae,Hookers Orchid,Herb,Epiphytic,Galing Primary School,Trashigang
+herb,flower,2016-04-18,ChHeYuPg1,Cymbidium hookerainum ,Orchidaceae,Hookers Orchid,Herb,Epiphytic,Yurung Central School,Pemagatshel
+herb,flower,2016-09-09,CkHeTaLt1,Cymbopogon khasianus ,Graminae,Lemon grass,Herb,Annual,Tangmachu Central School,Lhuentse
+herb,flower,2016-06-04,CsHeKhTp1,Cannabis sativa,Cannabaceae,,Herb,Annual,Khasadrapchu Middle Secondary School,Thimphu
+herb,flower,2016-05-05,DdHeJoSj1,Dendrobium densiflorum ,Orchidaceae,Pinapple orchid,Herb,Epiphytic,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+herb,flower,2016-04-09,FnHeBaTy1,Fragaria nubicola ,Rosaceae,Strawberry,Herb,Perrinial,Baylling Central School,Trashiyangtse
+herb,flower,2016-03-05,FnHeBjGs1,Fragaria nubicola ,Rosaceae,Strawberry,Herb,Perrinial,Bjishong Central School,Gasa
+herb,flower,2016-04-04,FnHeJaBt1,Fragaria nubicola ,Rosaceae,Strawberry,Herb,Perrinial,Jakar Higher Secondary School,Bumthang
+herb,flower,2016-03-14,FnHeNoWp1,Fragaria nubicola ,Rosaceae,Strawberry,Herb,Perrinial,Nobding Lower Secondary School,Wangduephodrang
+herb,flower,2016-04-25,FnHeSaTg1,Fragaria nubicola ,Rosaceae,Strawberry,Herb,Perrinial,Sakteng Lower Secondary School,Trashigang
+herb,flower,2016-03-02,GwHeMeTr1,Geranium wallichianum,Gereniaceae,,Herb,Annual,Mendrelgang Central School,Tsirang
+herb,flower,2016-03-01,PdHeBjGs1,Primula denticulata,Primulaceae,Primrose,Herb,Perrinial,Bjishong Central School,Gasa
+herb,flower,2016-03-10,PdHeDaHa1,Primula denticulata,Primulaceae,Primrose,Herb,Perrinial,Damthang Primary School,Haa
+herb,flower,2016-04-12,PdHeJaBt1,Primula denticulata,Primulaceae,Primrose,Herb,Perrinial,Jakar Higher Secondary School,Bumthang
+herb,flower,2016-02-23,PdHeNoWp1,Primula denticulata,Primulaceae,Primrose,Herb,Perrinial,Nobding Lower Secondary School,Wangduephodrang
+herb,flower,2016-07-03,PhHeGyMg1,Parthenium hysterophorus,Compositaceae,Whitetop weed,Herb,Annual,Gyelpozhing Central School,Mongar
+herb,flower,2016-07-09,PlHeBaTy1,Potentilla lineata,Rosaceae,,Herb,Perrinial,Baylling Central School,Trashiyangtse
+herb,flower,2016-07-21,PlHeDaHa1,Potentilla lineata,Rosaceae,,Herb,Perrinial,Damthang Primary School,Haa
+herb,flower,2016-03-16,RnHeGeDg1,Rumex nepalensis,Polygonaceae,,Herb,Perrinial,Gesarling Central School,Dagana
+herb,flower,2016-06-06,RnHeKhTp1,Rumex nepalensis,Polygonaceae,,Herb,Perrinial,Khasadrapchu Middle Secondary School,Thimphu
+herb,flower,2016-08-31,SpHeNoWp1,Swertia petiolata,Gentianaceae,,Herb,Annual,Nobding Lower Secondary School,Wangduephodrang
+herb,flower,2016-03-18,ToHeKhTp1,Taraxacum officinale,Asteraceae,,Herb,Perrinial,Khasadrapchu Middle Secondary School,Thimphu
+herb,flower,2016-05-06,TrHeDaHa1,Trifolium repens,Fabaceae,,Herb,Annual,Damthang Primary School,Haa
+herb,flower,2016-03-23,VbHeMeTr1,Viola bhutanica,Violaceae,,Herb,Annual,Mendrelgang Central School,Tsirang
+herb,fruit,2016-03-31,AaHeTeSt1,Ageratina adenophora,Asteraceae,,Herb,Perrinial,Tendruk Central School,Samtse
+herb,fruit,2016-04-06,AcHePeSp1,Ageratum conyzoides,Asteraceae,,Herb,Annual,Pelrithang Middle Secondary School,Sarpang
+herb,fruit,2016-07-04,AuHeTeSt1,Acmella uliginosa,Asteraceae,,Herb,Annual,Tendruk Central School,Samtse
+herb,fruit,2016-05-24,BpHeGyMg1,Bidens pilosa,Asteraceae,,Herb,Annual,Gyelpozhing Central School,Mongar
+herb,fruit,2016-09-25,BpHeJoSj1,Bidens pilosa,Asteraceae,,Herb,Annual,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+herb,fruit,2016-05-26,BpHeKhTp1,Bidens pilosa,Asteraceae,,Herb,Annual,Khasadrapchu Middle Secondary School,Thimphu
+herb,fruit,2016-04-06,BpHePeSp1,Bidens pilosa,Asteraceae,,Herb,Annual,Pelrithang Middle Secondary School,Sarpang
+herb,fruit,2016-04-19,BpHeTeSt1,Bidens pilosa,Asteraceae,,Herb,Annual,Tendruk Central School,Samtse
+herb,fruit,2016-10-01,CkHeTaLt1,Cymbopogon khasianus ,Graminae,Lemon grass,Herb,Annual,Tangmachu Central School,Lhuentse
+herb,fruit,2016-08-26,CsHeKhTp1,Cannabis sativa,Cannabaceae,,Herb,Annual,Khasadrapchu Middle Secondary School,Thimphu
+herb,fruit,2016-06-11,DdHeJoSj1,Dendrobium densiflorum ,Orchidaceae,Pinapple orchid,Herb,Epiphytic,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+herb,fruit,2016-03-28,DiHeMeTr1,Duchesnea indica,Rosaceae,,Herb,Annual,Mendrelgang Central School,Tsirang
+herb,fruit,2016-05-18,EcHeYuPg1,Elettaria cardamomum,Zingiberaceae,Cardamom,Herb,Perrinial,Yurung Central School,Pemagatshel
+herb,fruit,2016-04-24,FnHeBaTy1,Fragaria nubicola ,Rosaceae,Strawberry,Herb,Perrinial,Baylling Central School,Trashiyangtse
+herb,fruit,2016-03-17,FnHeBjGs1,Fragaria nubicola ,Rosaceae,Strawberry,Herb,Perrinial,Bjishong Central School,Gasa
+herb,fruit,2016-04-11,FnHeJaBt1,Fragaria nubicola ,Rosaceae,Strawberry,Herb,Perrinial,Jakar Higher Secondary School,Bumthang
+herb,fruit,2016-05-19,FnHeSaTg1,Fragaria nubicola ,Rosaceae,Strawberry,Herb,Perrinial,Sakteng Lower Secondary School,Trashigang
+herb,fruit,2016-03-23,GwHeMeTr1,Geranium wallichianum,Gereniaceae,,Herb,Annual,Mendrelgang Central School,Tsirang
+herb,fruit,2016-03-17,PdHeBjGs1,Primula denticulata,Primulaceae,Primrose,Herb,Perrinial,Bjishong Central School,Gasa
+herb,fruit,2016-04-27,PdHeDaHa1,Primula denticulata,Primulaceae,Primrose,Herb,Perrinial,Damthang Primary School,Haa
+herb,fruit,2016-05-16,PdHeJaBt1,Primula denticulata,Primulaceae,Primrose,Herb,Perrinial,Jakar Higher Secondary School,Bumthang
+herb,fruit,2016-03-29,PdHeNoWp1,Primula denticulata,Primulaceae,Primrose,Herb,Perrinial,Nobding Lower Secondary School,Wangduephodrang
+herb,fruit,2016-07-21,PhHeGyMg1,Parthenium hysterophorus,Compositaceae,Whitetop weed,Herb,Annual,Gyelpozhing Central School,Mongar
+herb,fruit,2016-08-19,PlHeBaTy1,Potentilla lineata,Rosaceae,,Herb,Perrinial,Baylling Central School,Trashiyangtse
+herb,fruit,2016-10-13,PlHeDaHa1,Potentilla lineata,Rosaceae,,Herb,Perrinial,Damthang Primary School,Haa
+herb,fruit,2016-08-11,PlHeSaTg1,Potentilla lineata,Rosaceae,,Herb,Perrinial,Sakteng Lower Secondary School,Trashigang
+herb,fruit,2016-04-01,RnHeGeDg1,Rumex nepalensis,Polygonaceae,,Herb,Perrinial,Gesarling Central School,Dagana
+herb,fruit,2016-06-17,RnHeKhTp1,Rumex nepalensis,Polygonaceae,,Herb,Perrinial,Khasadrapchu Middle Secondary School,Thimphu
+herb,fruit,2016-09-12,SpHeNoWp1,Swertia petiolata,Gentianaceae,,Herb,Annual,Nobding Lower Secondary School,Wangduephodrang
+herb,fruit,2016-03-26,ToHeKhTp1,Taraxacum officinale,Asteraceae,,Herb,Perrinial,Khasadrapchu Middle Secondary School,Thimphu
+herb,fruit,2016-04-08,VbHeMeTr1,Viola bhutanica,Violaceae,,Herb,Annual,Mendrelgang Central School,Tsirang
+herb,ripe_fruit,2016-04-06,AaHeTeSt1,Ageratina adenophora,Asteraceae,,Herb,Perrinial,Tendruk Central School,Samtse
+herb,ripe_fruit,2016-04-14,AcHePeSp1,Ageratum conyzoides,Asteraceae,,Herb,Annual,Pelrithang Middle Secondary School,Sarpang
+herb,ripe_fruit,2016-07-11,AuHeTeSt1,Acmella uliginosa,Asteraceae,,Herb,Annual,Tendruk Central School,Samtse
+herb,ripe_fruit,2016-05-31,BpHeGyMg1,Bidens pilosa,Asteraceae,,Herb,Annual,Gyelpozhing Central School,Mongar
+herb,ripe_fruit,2016-10-08,BpHeJoSj1,Bidens pilosa,Asteraceae,,Herb,Annual,Jomotshangkha Middle Secondary School,Samdrupjongkhar
+herb,ripe_fruit,2016-06-08,BpHeKhTp1,Bidens pilosa,Asteraceae,,Herb,Annual,Khasadrapchu Middle Secondary School,Thimphu
+herb,ripe_fruit,2016-04-14,BpHePeSp1,Bidens pilosa,Asteraceae,,Herb,Annual,Pelrithang Middle Secondary School,Sarpang
+herb,ripe_fruit,2016-09-07,CbHeJaBt1,Cosmos bipinnatus,Asteraceae,Garden cosmos,Herb,Annual,Jakar Higher Secondary School,Bumthang
+herb,ripe_fruit,2016-09-14,CsHeKhTp1,Cannabis sativa,Cannabaceae,,Herb,Annual,Khasadrapchu Middle Secondary School,Thimphu
+herb,ripe_fruit,2016-03-31,DiHeMeTr1,Duchesnea indica,Rosaceae,,Herb,Annual,Mendrelgang Central School,Tsirang
+herb,ripe_fruit,2016-05-11,FnHeBaTy1,Fragaria nubicola ,Rosaceae,Strawberry,Herb,Perrinial,Baylling Central School,Trashiyangtse
+herb,ripe_fruit,2016-04-10,FnHeBjGs1,Fragaria nubicola ,Rosaceae,Strawberry,Herb,Perrinial,Bjishong Central School,Gasa
+herb,ripe_fruit,2016-04-19,FnHeJaBt1,Fragaria nubicola ,Rosaceae,Strawberry,Herb,Perrinial,Jakar Higher Secondary School,Bumthang
+herb,ripe_fruit,2016-04-21,FnHeNoWp1,Fragaria nubicola ,Rosaceae,Strawberry,Herb,Perrinial,Nobding Lower Secondary School,Wangduephodrang
+herb,ripe_fruit,2016-04-08,GwHeMeTr1,Geranium wallichianum,Gereniaceae,,Herb,Annual,Mendrelgang Central School,Tsirang
+herb,ripe_fruit,2016-04-10,PdHeBjGs1,Primula denticulata,Primulaceae,Primrose,Herb,Perrinial,Bjishong Central School,Gasa
+herb,ripe_fruit,2016-06-09,PdHeDaHa1,Primula denticulata,Primulaceae,Primrose,Herb,Perrinial,Damthang Primary School,Haa
+herb,ripe_fruit,2016-06-16,PdHeJaBt1,Primula denticulata,Primulaceae,Primrose,Herb,Perrinial,Jakar Higher Secondary School,Bumthang
+herb,ripe_fruit,2016-04-19,PdHeNoWp1,Primula denticulata,Primulaceae,Primrose,Herb,Perrinial,Nobding Lower Secondary School,Wangduephodrang
+herb,ripe_fruit,2016-07-30,PhHeGyMg1,Parthenium hysterophorus,Compositaceae,Whitetop weed,Herb,Annual,Gyelpozhing Central School,Mongar
+herb,ripe_fruit,2016-08-25,PlHeSaTg1,Potentilla lineata,Rosaceae,,Herb,Perrinial,Sakteng Lower Secondary School,Trashigang
+herb,ripe_fruit,2016-05-26,RnHeGeDg1,Rumex nepalensis,Polygonaceae,,Herb,Perrinial,Gesarling Central School,Dagana
+herb,ripe_fruit,2016-07-01,RnHeKhTp1,Rumex nepalensis,Polygonaceae,,Herb,Perrinial,Khasadrapchu Middle Secondary School,Thimphu
+herb,ripe_fruit,2016-04-04,ToHeKhTp1,Taraxacum officinale,Asteraceae,,Herb,Perrinial,Khasadrapchu Middle Secondary School,Thimphu
